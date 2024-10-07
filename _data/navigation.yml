@@ -22,7 +22,7 @@
     url: "/resources/code-and-data/"
 
 - title: "News & Events"
-  url: "/news-events/"
+  url: "/news-and-events/"
   side: left
 
 - title: "Search"
