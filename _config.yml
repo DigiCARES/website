@@ -25,7 +25,7 @@ author: Preston Hager
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://digicares.net'
+url: 'https://digicares.github.io'
 baseurl: '/website'
 
 # This is for the editing function in _/includes/improve_content
