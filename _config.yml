@@ -11,13 +11,16 @@
 title: 'DigiCARES'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'DigiCARES'
+slogan: 'Tranforming Energy, Empowering Communities'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'DigiCARES'
+description: |
+  DigiCARES is a National Science Foundation funded project that aims to
+  develop a digital platform to identify and support energy deficencies in
+  local communities.
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p><a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a></p>'
+credits: '<p>Using <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> theme created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a></p>'
 
 # Main author of the website
 # See > authors.yml
