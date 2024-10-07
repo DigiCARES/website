@@ -6,4 +6,15 @@ subheadline         : "Contact Form"
 teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)
+
+<form action="https://formspree.io/f/mbljrpjw" method="POST">
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea style="min-height:15em;" name="message"></textarea>
+  </label>
+  <button type="submit">Send</button>
+</form>
