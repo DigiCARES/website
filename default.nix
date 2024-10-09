@@ -11,7 +11,7 @@ in stdenv.mkDerivation {
   buildInputs = [env ruby];
 
   shellHook = ''
-    exec ${env}/bin/jekyll serve --watch --config _config_dev.yml
+    exec ${env}/bin/jekyll serve --watch --config _config.yml,_config_dev.yml
   '';
 }
 

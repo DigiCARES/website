@@ -1,17 +1,17 @@
 ---
 layout: page
 title: "Resources"
-teaser: ""
 permalink: "/resources/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    title: "Resources"
+    image_fullwidth: "header_powerlines.jpg"
 ---
 
 ## Publications
 
-Get our publications [here](/publications/).
+Get our publications [here](/resources/publications/).
 
 ## Open Source Code & Data
 
-Get our open source code and data [here](/code-and-data/).
+Get our open source code and data [here](/resources/code-and-data/).
 
