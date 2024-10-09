@@ -20,6 +20,21 @@ Check typography variables › _3_typography_settings.scss
 */
 
 
+/* Color
+------------------------------------------------------------------- */
+
+.font-light {
+    color: $grey-1;
+}
+.font-dark {
+    color: $grey-16;
+}
+.font-primary {
+    color: $primary-color;
+}
+.font-secondary {
+    color: $secondary-color;
+}
 
 /* Links
 ------------------------------------------------------------------- */
