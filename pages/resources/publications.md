@@ -3,10 +3,9 @@ layout: page
 title: "Publications"
 permalink: "/resources/publications/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    title: "Publications"
+    image_fullwidth: "header_powerlines.jpg"
 ---
-
-## Publications
 
 Please come back later for a list of all publications.
 

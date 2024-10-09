@@ -4,6 +4,10 @@
   url: "/contact/"
   title: "Contact"
 
+- name: "Attributions"
+  url: "/attributions/"
+  title: "Attributions"
+
 - name: "RSS"
   url: "/feed.xml"
   title: "Subscribe to RSS Feed"
@@ -15,3 +19,4 @@
 - name: "sitemap.xml"
   url: "/sitemap.xml"
   title: "Sitemap for Google Webmaster Tools"
+

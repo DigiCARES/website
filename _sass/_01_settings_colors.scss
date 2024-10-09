@@ -26,12 +26,12 @@ $body-bg            : #fdfdfd;
    https://color.adobe.com/de/Flat-Design-Colors-v2-color-theme-4341903/
 ------------------------------------------------------------------- */
 
-$ci-1               : #334D5C;
-$ci-2               : #74d0e0;
-$ci-3               : #25243e;
-$ci-4               : #f5d159;
-$ci-5               : #cb43a1;
-$ci-6               : #4b6486;
+$ci-1               : #015982;
+$ci-2               : #938BA1;
+$ci-3               : #0C4F1D;
+$ci-4               : #03191E;
+$ci-5               : #941C2F;
+$ci-6               : #FFD15E;
 
 
 
@@ -40,7 +40,7 @@ $ci-6               : #4b6486;
 
 $primary-color      : $ci-1;
 $secondary-color    : $ci-6;
-$alert-color        : $ci-5;
+$alert-color        : $ci-3;
 $success-color      : $ci-6;
 $warning-color      : $ci-4;
 $info-color         : $ci-1;
@@ -80,27 +80,27 @@ $topbar-dropdown-toggle-color: $ci-1;
 
 $topbar-link-color  : #000;
 $topbar-link-color-hover: #000;
-$topbar-link-color-active: #000;
+$topbar-link-color-active: #fff;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-label-color: $ci-1;
 $topbar-dropdown-link-bg-hover: $ci-6;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
+$topbar-link-bg-active: $ci-1; // Active Navigation Link
 $topbar-link-bg-hover: $ci-6;
-$topbar-link-bg-active-hover: $ci-2;
+$topbar-link-bg-active-hover: $ci-6;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-2;
+$topbar-dropdown-bg: $ci-1; // Background Mobile Navigation
+$topbar-dropdown-link-color: #fff;
+$topbar-dropdown-link-bg: $ci-1;
 
-$topbar-menu-link-color-toggled: $ci-1;
-$topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: #000;
-$topbar-menu-icon-color: #000;
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color: #000;
+$topbar-menu-icon-color: #000;
+$topbar-menu-link-color-toggled: $ci-1;
+$topbar-menu-icon-color-toggled: $ci-1;
 
 
 

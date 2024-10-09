@@ -22,10 +22,12 @@ format: post
 				</figure>
 				{% endif %}
 
+        {% unless page.header.title %}
 				<div itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
 					<h1>{{ page.title }}</h1>
 				</div>
+        {% endunless %}
 			</header>
 
 
