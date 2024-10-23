@@ -24,6 +24,11 @@
 - title: "News & Events"
   url: "/news-and-events/"
   side: left
+  dropdown:
+  - title: "News"
+    url: "/news-and-events/news/"
+  - title: "Calendar"
+    url: "/calendar/"
 
 - title: "Search"
   url: "/search/"
