@@ -36,6 +36,32 @@ Check typography variables › _3_typography_settings.scss
     color: $secondary-color;
 }
 
+.border-light {
+    border-color: $grey-1;
+}
+.border-dark {
+    border-color: $grey-16;
+}
+.border-primary {
+    border-color: $primary-color;
+}
+.border-secondary {
+    border-color: $secondary-color;
+}
+
+.background-light {
+    background-color: $grey-1;
+}
+.background-dark {
+    background-color: $grey-16;
+}
+.background-primary {
+    background-color: $primary-color;
+}
+.background-secondary {
+    background-color: $secondary-color;
+}
+
 /* Links
 ------------------------------------------------------------------- */
 

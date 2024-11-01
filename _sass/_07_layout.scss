@@ -361,3 +361,29 @@ body.video cite { color: #fff; }
 .pr5  { padding-right: 5px !important; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
+
+
+
+/* Flex and flex-box related classes
+------------------------------------------------------------------- */
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  & > .flex-item {
+    flex: 1 1 auto;
+  }
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-column {
+  flex-direction: column;
+}
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+
+

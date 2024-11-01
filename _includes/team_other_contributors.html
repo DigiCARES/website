@@ -1,0 +1,40 @@
+<div class="team team-other-contributors column">
+  {% for member in site.team %}
+  {% unless member.hidden %}
+  {% if member.type == 'other' %}
+    <div class="row">
+      <div class="card border-primary">
+        <div class="flex-container">
+          {% if member.image %}
+          <img class="card-image profile-circle border-primary"
+            src="{{ site.urlimg }}profiles/{{ member.image }}"
+            alt="{{ member.title }}">
+          {% endif %}
+          <div class="card-section">
+            <h2>{{ member.name }}</h2>
+            <hr class="border-primary">
+            <p>
+              {% if member.bio %}
+                {{ member.bio }}
+              {% else %}
+                {{ member.content }}
+              {% endif %}
+            </p>
+            {% if member.more_url %}
+            <a class="button primary" href="{{ member.more_url }}" target="_blank">
+              {% if member.more_text %}
+                {{ member.more_text }}
+              {% else %}
+                Read more
+              {% endif %}
+            </a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  {% endunless %}
+  {% endfor %}
+</div>
+
