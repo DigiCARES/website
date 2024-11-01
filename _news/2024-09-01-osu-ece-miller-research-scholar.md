@@ -1,5 +1,5 @@
 ---
-title: 
+title: OSU ECE Miller Research Scholar
 date: 2024-09-01
 more: false
 ---
