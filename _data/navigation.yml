@@ -3,8 +3,13 @@
   side: left
 
 - title: About
-  url: "/about/"
+  url: "/about/project/"
   side: left
+  dropdown:
+  - title: "Project"
+    url: "/about/project/"
+  - title: "Team"
+    url: "/about/team/"
 
 - title: Research
   url: "/research/"

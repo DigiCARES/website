@@ -3,7 +3,7 @@ layout: page
 title: ""
 subheadline: "Why DigiCARES?"
 teaser: "Transforming Energy, Empowering Communities"
-permalink: "/about/"
+permalink: "/about/project"
 header:
     title: "About DigiCARES"
     image_fullwidth: "header_windmills.jpg"
@@ -22,9 +22,5 @@ education.
 
 To do this, DigiCARES will develop an AI-driven digital twin to assist in the
 goal of becoming more climate aware and resilient.
-
-## Team
-
-List of Bios from the team of researchers.
 
 
