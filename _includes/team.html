@@ -1,7 +1,7 @@
-<div class="team team-professor column">
+<div class="team team-{{ type }}s column">
   {% for member in site.team %}
   {% unless member.hidden %}
-  {% if member.type == 'professor' %}
+  {% if member.type == type %}
     <div class="row">
       <div class="card border-primary">
         <div class="flex-container">
@@ -11,15 +11,19 @@
             alt="{{ member.title }}">
           {% endif %}
           <div class="card-section">
-            <h2>{{ member.name }}</h2>
+            <h2>
+              {{ member.name }} -
+              <span class="profile-title">{{ member.title }}</span>
+            </h2>
+            <p>
+              {{ member.institution }}
+            </p>
+            {% if member.content %}
             <hr class="border-primary">
             <p>
-              {% if member.bio %}
-                {{ member.bio }}
-              {% else %}
-                {{ member.content }}
-              {% endif %}
+              {{ member.content }}
             </p>
+            {% endif %}
             {% if member.more_url %}
             <a class="button primary" href="{{ member.more_url }}" target="_blank">
               {% if member.more_text %}

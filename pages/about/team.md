@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: ""
 subheadline: "Who is behind DigiCARES?"
 teaser: "Transforming Energy, Empowering Communities"
@@ -11,35 +11,42 @@ header:
 
 ## Team
 
-### Professors
+### Researchers
 
-The team of DigiCARES started with the professors initiating the research and
+The team of DigiCARES started with the people initiating the research and
 requesting grants from the National Science Foundation (NSF). Here is a list of
-these professors, and their roles.
+those, and their roles.
 
-{% include team_professors.html %}
+{% capture type %}researcher{% endcapture %}
+{% include team.html %}
 
-### Researchers and Students
+### Postdoctoral and Visiting Scholars
 
 It's the researchers' work on the project that enables us to help empower
-communities. The following list is every researcher currently assisting the
-DigiCARES project.
+communities. The following list is every other researcher currently assisting
+the DigiCARES project.
 
-{% include team_researchers.html %}
+{% capture type %}postdoc{% endcapture %}
+{% include team.html %}
+{% capture type %}visiting_scholar{% endcapture %}
+{% include team.html %}
 
-### Previous Researchers
+### Graduate Students
 
-Some researchers may have left the project, but their work is still important to
-continuing to transform energy and empower communities. Here is a list of these
-previous researchers.
+{% capture type %}graduate{% endcapture %}
+{% include team.html %}
 
-{% include team_previous_researchers.html %}
+### Undergraduate Students
+
+{% capture type %}undergraduate{% endcapture %}
+{% include team.html %}
 
 ### Other Contributors
 
 There are many other people who have contributed to the DigiCARES project in
 business, marketing, and other areas. Here is a list of these contributors.
 
-{% include team_other_contributors.html %}
+{% capture type %}other{% endcapture %}
+{% include team.html %}
 
 

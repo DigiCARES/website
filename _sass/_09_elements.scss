@@ -168,6 +168,11 @@ img.lazy {
 
 .team {
   .flex-container {
+    @media #{$small-only} {
+      flex-direction: column;
+      text-align: center;
+    }
+
     justify-content: flex-start;
     .card-section {
       flex: 2;
@@ -177,11 +182,14 @@ img.lazy {
       height: 100%;
       max-width: rem-calc(192);
       margin-right: rem-calc(16);
-    }
+   }
     img.profile-circle {
       border: 0px solid $grey-2;
       border-radius: 50%;
       margin: rem-calc(16);
+      @media #{$small-only} {
+        margin: rem-calc(16) auto;
+      }
       &.border-light {
         border: rem-calc(2) solid $grey-2;
       }

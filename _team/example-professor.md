@@ -12,12 +12,12 @@ layout: null
 # Change this to your name
 name: Example Professor
 # The type field is used to place you under the correct subheading. It may be of
-# the following values: professor, researcher, previous-researcher, or other.
-type: professor
-# Write a short bio below, or delete this and write the bio in the main body.
-bio: |
-    An about section for this professor. Try to keep this to about two sentances,
-    maybe three if you need more room.
+# the following values: researcher, postdoc, visiting_scholar, graduate,
+# undergraduate, or other.
+type: researcher
+# Bio-tags: the following describe the person's role in the research.
+institution: New Mexico State University
+title: Researcher
 # Optional tag to change the display order in relation to other professors
 sort_order: 100
 # Be sure to place this image in the /images/profiles/ directory.
@@ -27,9 +27,9 @@ image: example.svg
 more_text: Example's Website
 more_url: https://example.com/
 # Delete this command and field below when finished.
-hidden: false
+hidden: true
 ---
 
-You can also write your bio here, but be sure to delete the bio field in the
-frontmatter above. Otherwise, this text will be ignored!
+Include some text here to have it display under your name.
+
 
