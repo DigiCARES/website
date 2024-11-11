@@ -186,6 +186,7 @@ img.lazy {
     img.profile-circle {
       border: 0px solid $grey-2;
       border-radius: 50%;
+      aspect-ratio: 1/1;
       margin: rem-calc(16);
       @media #{$small-only} {
         margin: rem-calc(16) auto;
