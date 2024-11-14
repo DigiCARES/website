@@ -3,7 +3,7 @@ layout: page-fullwidth
 title: ""
 subheadline: "Who is behind DigiCARES?"
 teaser: "Transforming Energy, Empowering Communities"
-permalink: "/about/team"
+permalink: "/about/team/"
 header:
     title: "Team of DigiCARES"
     image_fullwidth: "header_windmills.jpg"

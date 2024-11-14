@@ -3,7 +3,7 @@ layout: page
 title: ""
 subheadline: "Why DigiCARES?"
 teaser: "Transforming Energy, Empowering Communities"
-permalink: "/about/project"
+permalink: "/about/project/"
 header:
     title: "About DigiCARES"
     image_fullwidth: "header_windmills.jpg"

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Calendar"
-permalink: "/calendar"
+permalink: "/calendar/"
 header: none
 #    title: "Calendar"
 #    title_color: light
