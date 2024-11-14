@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Open Source Code & Data"
-permalink: "/resources/code-and-data/"
+title: "Open Source Code"
+permalink: "/resources/code/"
 header:
-    title: "Code & Data"
+    title: "Code"
     image_fullwidth: "header_powerlines.jpg"
 ---
 
@@ -12,9 +12,5 @@ header:
 Our code is open sourced on
 <a href="https://github.com/DigiCARES" target="_blank">GitHub/DigiCARES</a>.
 Please note that the license may differ between repositories.
-
-## Open Source Data
-
-Please come back later for our data sources.
 
 
