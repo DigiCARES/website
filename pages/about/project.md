@@ -6,7 +6,7 @@ teaser: "Transforming Energy, Empowering Communities"
 permalink: "/about/project/"
 header:
     title: "About DigiCARES"
-    image_fullwidth: "header_windmills.jpg"
+    image_fullwidth: banner/pexels-pixabay-414807.jpg
 ---
 
 ## Project

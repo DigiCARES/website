@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Task 1
 permalink: /research/task-1/
+header:
+    title: Task 1
+    image_fullwidth: banner/pexels-david-frohlich-778114588-22604699.jpg
 ---
 
 <hr class="border-primary">

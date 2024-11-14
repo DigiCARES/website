@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Education & Outreach
 permalink: /education-outreach/
-header: Education & Outreach
+header:
+    title: Education & Outreach
+    image_fullwidth: banner/pexels-pixabay-373543.jpg
 ---
 
 Part of our research is engaging with the public, especially the communities in

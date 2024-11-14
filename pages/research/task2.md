@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Task 2
 permalink: /research/task-2/
+header:
+    title: Task 2
+    image_fullwidth: banner/monitor-1307227.jpg
 ---
 
 <hr class="border-primary">

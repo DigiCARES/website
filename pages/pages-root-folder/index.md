@@ -7,7 +7,8 @@
 layout: frontpage
 header:
   title: "DigiCARES"
-  image_fullwidth: header_news_osu.jpg
+  title_color: dark
+  image_fullwidth: banner/artificial-intelligence-3706562.jpg
 
 widget1:
   title: "News & Events"

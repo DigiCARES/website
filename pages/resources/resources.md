@@ -4,7 +4,7 @@ title: "Resources"
 permalink: "/resources/"
 header:
     title: "Resources"
-    image_fullwidth: "header_powerlines.jpg"
+    image_fullwidth: banner/pexels-quang-nguyen-vinh-222549-2735865.jpg
 ---
 
 ## Publications

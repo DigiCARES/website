@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Task 3
 permalink: /research/task-3/
+header:
+    title: Task 3
+    image_fullwidth: banner/pexels-kelly-1179532-8457868.jpg
 ---
 
 <hr class="border-primary">

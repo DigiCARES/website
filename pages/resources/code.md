@@ -4,7 +4,7 @@ title: "Open Source Code"
 permalink: "/resources/code/"
 header:
     title: "Code"
-    image_fullwidth: "header_powerlines.jpg"
+    image_fullwidth: banner/pexels-pixabay-276452.jpg
 ---
 
 ## Open Source Code
