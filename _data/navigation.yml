@@ -3,8 +3,13 @@
   side: left
 
 - title: About
-  url: "/about/"
+  url: "/about/project/"
   side: left
+  dropdown:
+  - title: "Project"
+    url: "/about/project/"
+  - title: "Team"
+    url: "/about/team/"
 
 - title: Research
   url: "/research/"
@@ -24,6 +29,11 @@
 - title: "News & Events"
   url: "/news-and-events/"
   side: left
+  dropdown:
+  - title: "News"
+    url: "/news-and-events/news/"
+  - title: "Calendar"
+    url: "/calendar/"
 
 - title: "Search"
   url: "/search/"

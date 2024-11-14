@@ -1,0 +1,53 @@
+<div class="team team-{{ type }}s column">
+  {% assign sortedTeam = site.team | sort: "sort_order" %}
+  {% for member in sortedTeam %}
+  {% unless member.hidden %}
+  {% if member.type == type %}
+    <div class="row">
+      <div class="card border-primary">
+        <div class="flex-container">
+          {% if member.image %}
+          <img class="card-image profile-circle border-primary"
+            src="{{ site.urlimg }}profiles/{{ member.image }}"
+            alt="{{ member.title }}">
+          {% endif %}
+          <div class="card-section">
+            <h2>
+            {% if member.pre-nominal and member.post-nominal %}
+              {{ member.pre-nominal }} {{ member.name }}, {{ member.post-nominal }}
+            {% elsif member.pre-nominal %}
+              {{ member.pre-nominal }} {{ member.name }}
+            {% elsif member.post-nominal %}
+              {{ member.name }}, {{ member.post-nominal }}
+            {% else %}
+              {{ member.name }}
+            {% endif %}
+              <span class="profile-title">- {{ member.title }}</span>
+            </h2>
+            <p>
+              {{ member.institution }}
+            </p>
+            {% unless member.content == blank %}
+            <hr class="border-primary">
+            <p>
+              {{ member.content }}
+            </p>
+            {% endunless %}
+            {% if member.more_url %}
+            <a class="button primary" href="{{ member.more_url }}" target="_blank">
+              {% if member.more_text %}
+                {{ member.more_text }}
+              {% else %}
+                Read more
+              {% endif %}
+            </a>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  {% endif %}
+  {% endunless %}
+  {% endfor %}
+</div>
+
