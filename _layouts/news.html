@@ -15,6 +15,7 @@ noindex: true
           {% endif %}
           <div class="card-section">
             <h2>{{ post.title }}</h2>
+            <p style="color:#555;">{{ post.date | date: "%B %d, %Y" }}</p>
             {{ post.content }}
             {% if post.more %}
             <a class="button primary" href="{{ post.more }}" target="_blank">Read more</a>
