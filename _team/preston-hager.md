@@ -18,7 +18,7 @@ type: other
 institution: New Mexico State University
 title: Web Developer
 # Optional tag to change the display order in relation to other professors
-sort_order: 100
+sort_order: 50
 # Be sure to place this image in the /images/profiles/ directory.
 image: preston-hager.jpg
 ---

@@ -10,6 +10,7 @@
 ################################################################################
 # Change this to your name
 name: Fengyu Wang
+post-nominal: Ph.D.
 # The type field is used to place you under the correct subheading. It may be of
 # the following values: researcher, postdoc, visiting_scholar, graduate,
 # undergraduate, or other.
@@ -18,7 +19,7 @@ type: researcher
 institution: New Mexico State University
 title: Researcher
 # Optional tag to change the display order in relation to other professors
-sort_order: 100
+sort_order: 50
 # Be sure to place this image in the /images/profiles/ directory.
 image: example.svg
 # Include a link to an external website, or some other internal page if desired.

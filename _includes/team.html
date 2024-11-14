@@ -1,5 +1,6 @@
 <div class="team team-{{ type }}s column">
-  {% for member in site.team %}
+  {% assign sortedTeam = site.team | sort: "sort_order" %}
+  {% for member in sortedTeam %}
   {% unless member.hidden %}
   {% if member.type == type %}
     <div class="row">
@@ -12,18 +13,26 @@
           {% endif %}
           <div class="card-section">
             <h2>
-              {{ member.name }} -
-              <span class="profile-title">{{ member.title }}</span>
+            {% if member.pre-nominal and member.post-nominal %}
+              {{ member.pre-nominal }} {{ member.name }}, {{ member.post-nominal }}
+            {% elsif member.pre-nominal %}
+              {{ member.pre-nominal }} {{ member.name }}
+            {% elsif member.post-nominal %}
+              {{ member.name }}, {{ member.post-nominal }}
+            {% else %}
+              {{ member.name }}
+            {% endif %}
+              <span class="profile-title">- {{ member.title }}</span>
             </h2>
             <p>
               {{ member.institution }}
             </p>
-            {% if member.content %}
+            {% unless member.content == blank %}
             <hr class="border-primary">
             <p>
               {{ member.content }}
             </p>
-            {% endif %}
+            {% endunless %}
             {% if member.more_url %}
             <a class="button primary" href="{{ member.more_url }}" target="_blank">
               {% if member.more_text %}

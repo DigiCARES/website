@@ -18,7 +18,7 @@ type: researcher
 institution: New Mexico State University
 title: Researcher
 # Optional tag to change the display order in relation to other professors
-sort_order: 100
+sort_order: 50
 # Be sure to place this image in the /images/profiles/ directory.
 image: example.svg
 # Include a link to an external website, or some other internal page if desired.

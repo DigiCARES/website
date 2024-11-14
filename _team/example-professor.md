@@ -11,6 +11,7 @@
 layout: null
 # Change this to your name
 name: Example Professor
+post-nominal: Ph.D.
 # The type field is used to place you under the correct subheading. It may be of
 # the following values: researcher, postdoc, visiting_scholar, graduate,
 # undergraduate, or other.
@@ -19,6 +20,13 @@ type: researcher
 institution: New Mexico State University
 title: Researcher
 # Optional tag to change the display order in relation to other professors
+# To sort by universities I changed this on each person to match their
+# institution as such:
+# NMSU - 50
+# MSU - 70
+# OSU - 100
+# UAH - 150
+# NSF - 200
 sort_order: 100
 # Be sure to place this image in the /images/profiles/ directory.
 image: example.svg
