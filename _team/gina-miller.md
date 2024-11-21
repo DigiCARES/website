@@ -16,14 +16,14 @@ name: Gina Miller
 type: researcher
 # Bio-tags: the following describe the person's role in the research.
 institution: Oklahoma State University
-title: OK-LSAMP, Program Director
+title: Program Director, OK-LSAMP
 # Optional tag to change the display order in relation to other professors
 sort_order: 100
 # Be sure to place this image in the /images/profiles/ directory.
 image: gina-miller.png
 # Include a link to an external website, or some other internal page if desired.
 # If not including a link, delete both fields or leave them blank.
-more_text: OSU Directory
-more_url: https://community.okstate.edu/departments/trio/scott-hall-department-files/scott-hall-staff-bios/gina_miller_staff_bio.html
+more_text: OK-LSAMP Website
+more_url: https://community.okstate.edu/departments/ok-lsamp/
 ---
 
