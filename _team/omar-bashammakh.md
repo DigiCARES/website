@@ -15,11 +15,11 @@ name: Omar Bashammakh
 # undergraduate, or other.
 type: undergraduate
 # Bio-tags: the following describe the person's role in the research.
-#institution: New Mexico State University
+institution: New Mexico State University
 title: Researcher
 # Optional tag to change the display order in relation to other professors
-sort_order: 100
+sort_order: 50
 # Be sure to place this image in the /images/profiles/ directory.
-image: example.svg
+image: omar-bashammakh.png
 ---
 

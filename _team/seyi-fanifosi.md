@@ -20,6 +20,8 @@ title: Researcher
 # Optional tag to change the display order in relation to other professors
 sort_order: 100
 # Be sure to place this image in the /images/profiles/ directory.
-image: example.svg
+image: seyi-fanifosi.jpg
+more_text: LinkedIn
+more_url: https://www.linkedin.com/in/seyi-fanifosi/
 ---
 
