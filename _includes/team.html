@@ -22,9 +22,11 @@
             {% else %}
               {{ member.name }}
             {% endif %}
-              <span class="profile-title">- {{ member.title }}</span>
             </h2>
             <p>
+              {% if member.title %}
+              <span class="profile-title">{{ member.title }} -</span>
+              {% endif %}
               {{ member.institution }}
             </p>
             {% unless member.content == blank %}
