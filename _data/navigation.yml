@@ -21,6 +21,12 @@
     url: "/research/task-2/"
   - title: "Task 3"
     url: "/research/task-3/"
+  - title: "Task 4"
+    url: "/research/task-4/"
+  - title: "Task 5"
+    url: "/research/task-5/"
+  - title: "Task 6"
+    url: "/research/task-6/"
 
 - title: "Education & Outreach"
   url: "/education-outreach/"

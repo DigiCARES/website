@@ -41,6 +41,8 @@ energy planning through engaged community conversations. The task employs a
 stakeholder analysis approach to thoroughly understand the roles and influences
 of various stakeholders.
 
+![Community conversations diagram](/images/research-tasks/task-2-2.png)
+
 <hr class="border-primary">
 
 ## Task 2.3

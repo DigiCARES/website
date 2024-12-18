@@ -49,6 +49,8 @@ change-induced risks to energy systems. The task focuses on how extreme weather
 events, intensified by climate change, and influenced by human activities like
 urbanization and agriculture
 
+![Level of interactions with country, state, urban areas](/images/research-tasks/task-1-3.png)
+
 <hr class="border-primary">
 
 ## Task 1.4
