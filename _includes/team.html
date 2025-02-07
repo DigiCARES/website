@@ -1,14 +1,15 @@
 <div class="team team-{{ type }}s column">
+  <div class="row">
   {% assign sortedTeam = site.team | sort: "sort_order" %}
   {% for member in sortedTeam %}
   {% unless member.hidden %}
   {% if member.type == type %}
-    <div class="row">
+    <div class="col-4 col-12-narrow">
       <div class="card border-primary">
         <div class="flex-container">
           {% if member.image %}
           <img class="card-image profile-circle border-primary"
-            src="{{ site.urlimg }}profiles/{{ member.image }}"
+            src="/images/profiles/{{ member.image }}"
             alt="{{ member.title }}">
           {% endif %}
           <div class="card-section">
@@ -49,5 +50,6 @@
   {% endif %}
   {% endunless %}
   {% endfor %}
+  </div>
 </div>
 
