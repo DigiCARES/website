@@ -8,7 +8,10 @@ layout: page
 header:
     title: "<strong>DigiCARES</strong>"
     color: "#000"
-    background: "center center/cover no-repeat url(/images/banner/artificial-intelligence-3706562.jpg)"
+    background: |
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        top left repeat url(/assets/css/images/overlay.png),
+        center center/cover no-repeat url(/images/banner/artificial-intelligence-3706562.jpg)
 cta:
     link: /contact/
     text: "Contact us"

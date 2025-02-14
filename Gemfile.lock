@@ -1,10 +1,3 @@
-GIT
-  remote: https://github.com/PrestonHager/tessellate.git
-  revision: c150f481777bb5eabc20b3c94cd6710a88ef140c
-  specs:
-    tessellate (0.1.2)
-      jekyll (~> 4.3)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -155,6 +148,8 @@ GEM
       faraday (>= 0.17.3, < 3)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
+    tessellate (0.1.3)
+      jekyll (~> 4.3)
     unicode-display_width (2.6.0)
     uri (1.0.2)
     webrick (1.9.1)
@@ -191,7 +186,7 @@ DEPENDENCIES
   jekyll-asciidoc
   jekyll-gist
   jekyll-paginate
-  tessellate (= 0.1.2)!
+  tessellate (~> 0.1.3)
 
 BUNDLED WITH
    2.5.16
