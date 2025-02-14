@@ -1,12 +1,10 @@
 ---
-layout: page
-permalink: /research/task-5/
+layout: section_four
 header:
     title: Task 5
-    image_fullwidth: banner/pexels-david-frohlich-778114588-22604699.jpg
+section-id: task-5
+columns: 2
 ---
-
-<hr class="border-primary">
 
 ## Task 5.1
 
@@ -22,7 +20,7 @@ infrastructure.
 
 ![Platforms and overall model](/images/research-tasks/task-5-1.png)
 
-<hr class="border-primary">
+---
 
 ## Task 5.2
 
@@ -34,7 +32,7 @@ This task involves simulating and analyzing the impacts of specific energy
 infrastructure upgrade strategies on climate resilience and energy burden within
 each community.
 
-<hr class="border-primary">
+---
 
 ## Task 5.3
 
@@ -48,7 +46,7 @@ This task will use comprehensive simulations via digital twins to project
 various energy policy and infrastructure scenarios, analyzing their impacts on
 community resilience, energy equity, and sustainability. 
 
-<hr class="border-primary">
+---
 
 ## Task 5.4
 

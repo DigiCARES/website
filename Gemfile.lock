@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/PrestonHager/tessellate.git
+  revision: c150f481777bb5eabc20b3c94cd6710a88ef140c
+  specs:
+    tessellate (0.1.2)
+      jekyll (~> 4.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -184,6 +191,7 @@ DEPENDENCIES
   jekyll-asciidoc
   jekyll-gist
   jekyll-paginate
+  tessellate (= 0.1.2)!
 
 BUNDLED WITH
    2.5.16

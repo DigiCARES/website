@@ -1,12 +1,10 @@
 ---
-layout: page
-permalink: /research/task-6/
+layout: section_four
 header:
     title: Task 6
-    image_fullwidth: banner/pexels-david-frohlich-778114588-22604699.jpg
+section-id: task-6
+columns: 2
 ---
-
-<hr class="border-primary">
 
 ## Task 6.1
 
@@ -21,7 +19,7 @@ and users. This interface will allow diverse stakeholders to effectively
 interact with the digital twin, ensuring their insights are promptly reflected
 in real-time updates and simulations.
 
-<hr class="border-primary">
+---
 
 ## Task 6.2
 
