@@ -15,10 +15,10 @@ name: Xi Lei
 # undergraduate, or other.
 type: graduate
 # Bio-tags: the following describe the person's role in the research.
-#institution: New Mexico State University
-title: Researcher
+institution: New Mexico State University
+title: PhD Student
 # Optional tag to change the display order in relation to other professors
-sort_order: 100
+sort_order: 50
 # Be sure to place this image in the /images/profiles/ directory.
 image: xi-lei.jpg
 more_text: LinkedIn
