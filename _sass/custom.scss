@@ -21,7 +21,13 @@
 ------------------------------------------------------------------- */
 
 .team {
+  .card {
+    height: 100%;
+  }
+
   .flex-container {
+    height: 100%;
+
     @include breakpoint('<=narrow') {
       flex-direction: column;
       text-align: center;
@@ -32,8 +38,9 @@
       flex: 2;
     }
     img.card-image {
+      margin: 0;
       width: 100%;
-      height: 100%;
+      height: fit-content;
       max-width: rem-calc(192);
       margin-right: rem-calc(16);
    }
@@ -62,6 +69,7 @@
     .card-section {
       display: flex;
       flex-direction: column;
+      align-self: flex-end;
 
       a {
         align-self: end;

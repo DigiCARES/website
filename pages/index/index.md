@@ -7,7 +7,6 @@
 layout: page
 header:
     title: "<strong>DigiCARES</strong>"
-    color: "#000"
     background: |
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
         top left repeat url(/assets/css/images/overlay.png),

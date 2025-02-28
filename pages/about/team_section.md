@@ -1,6 +1,7 @@
 ---
 layout: default
 section-id: team
+style: style5
 header:
     title: Team
     body: |

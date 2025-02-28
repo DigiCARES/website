@@ -4,7 +4,7 @@
   {% for member in sortedTeam %}
   {% unless member.hidden %}
   {% if member.type == type %}
-    <div class="col-4 col-6-narrow">
+    <div class="col-3 col-6-narrow">
       <div class="card border-primary">
         <div class="flex-container">
           {% if member.image %}
@@ -36,11 +36,7 @@
             {% endunless %}
             {% if member.more_url %}
             <a class="button primary" href="{{ member.more_url }}" target="_blank">
-              {% if member.more_text %}
-                {{ member.more_text }}
-              {% else %}
-                Read more
-              {% endif %}
+              Read more
             </a>
             {% endif %}
           </div>
