@@ -1,13 +1,7 @@
 ---
-layout: page
-title: "Open Source Code"
-permalink: "/resources/code/"
-header:
-    title: "Code"
-    image_fullwidth: banner/pexels-pixabay-276452.jpg
+layout: default
+style: style2
 ---
-
-## Open Source Code
 
 Our code is open sourced on
 <a href="https://github.com/DigiCARES" target="_blank">GitHub/DigiCARES</a>.

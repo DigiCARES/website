@@ -1,10 +1,12 @@
 ---
-layout: news
-title: "News & Events"
-permalink: "/news-and-events/news/"
+layout: page
+title: News & Events
+permalink: /news-and-events/
 header:
-    title: "News"
-    title_color: light
-    image_fullwidth: banner/header_news_osu.jpg
+    title: News
+    background: |
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        top left repeat url(/assets/css/images/overlay.png),
+        center center/cover no-repeat url(/images/banner/header_news_osu.jpg)
 ---
 

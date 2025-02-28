@@ -1,20 +1,18 @@
 ---
-layout              : page
-title               : "Contact"
-meta_title          : "Contact and use our contact form"
-subheadline         : "Contact Form"
-teaser              : "Get in touch with our team? Use the contact form."
-permalink           : "/contact/"
+layout: page
+header:
+    title: Contact
+    subtitle: Get in touch with us
+    background: |
+        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        top left repeat url(/assets/css/images/overlay.png),
+        center center/cover no-repeat url(/images/banner/pexels-pixabay-373543.jpg)
+permalink: /contact/
 ---
 
-<form action="https://formspree.io/f/mbljrpjw" method="POST">
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
-  <label>
-    Your message:
-    <textarea style="min-height:15em;" name="message"></textarea>
-  </label>
-  <button type="submit">Send</button>
-</form>
+{% include
+    contact_form.html
+    form_id="mbljrpjw"
+    section_title="Contact DigiCARES"
+%}
+
