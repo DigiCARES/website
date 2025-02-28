@@ -1,12 +1,10 @@
 ---
-layout: page
-permalink: /research/task-4/
+layout: section_four
 header:
     title: Task 4
-    image_fullwidth: banner/pexels-david-frohlich-778114588-22604699.jpg
+section-id: task-4
+columns: 2
 ---
-
-<hr class="border-primary">
 
 ## Task 4.1
 
@@ -20,7 +18,7 @@ additional insights from the American Time Use Survey, we will create predictive
 models for community-level energy demand employing recurrent neural networks
 (RNNs).
 
-<hr class="border-primary">
+---
 
 ## Task 4.2
 
@@ -35,7 +33,7 @@ changes and weather extremes into the behavior modeling of energy prosumers.
 
 ![Model input/outputs](/images/research-tasks/task-4-2.png)
 
-<hr class="border-primary">
+---
 
 ## Task 4.3
 
@@ -47,7 +45,7 @@ This task focuses on creating high-fidelity power system operating scenarios,
 particularly under extreme weather conditions, to enhance the digital twin’s
 predictive capabilities.
 
-<hr class="border-primary">
+---
 
 ## Task 4.4
 

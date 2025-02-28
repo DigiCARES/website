@@ -1,12 +1,10 @@
 ---
-layout: page
-permalink: /research/task-1/
+layout: section_four
 header:
     title: Task 1
-    image_fullwidth: banner/pexels-david-frohlich-778114588-22604699.jpg
+section-id: task-1
+columns: 2
 ---
-
-<hr class="border-primary">
 
 ## Task 1.1
 
@@ -21,7 +19,7 @@ climate simulations. Observations will be collected with collaboration from
 state climatologists and use citizen science programs to include rural and urban
 communities.
 
-<hr class="border-primary">
+---
 
 ## Task 1.2
 
@@ -35,7 +33,7 @@ various scales affect energy systems by synthesizing long-term climate
 observations and simulations from 1980 to 2060. Results will be integrated into
 task 1.1 to provide more comprehensive testing of climate hypotheses.
 
-<hr class="border-primary">
+---
 
 ## Task 1.3
 
@@ -51,7 +49,7 @@ urbanization and agriculture
 
 ![Level of interactions with country, state, urban areas](/images/research-tasks/task-1-3.png)
 
-<hr class="border-primary">
+---
 
 ## Task 1.4
 

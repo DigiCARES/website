@@ -1,12 +1,10 @@
 ---
-layout: page
-permalink: /research/task-3/
+layout: section_four
 header:
     title: Task 3
-    image_fullwidth: banner/pexels-kelly-1179532-8457868.jpg
+section-id: task-3
+columns: 2
 ---
-
-<hr class="border-primary">
 
 ## Task 3.1
 
@@ -18,7 +16,7 @@ By focusing on creating key metrics for climate-aware resilience in energy
 systems, this task addresses service reliability, environmental resilience,
 energy burden and equity, and adaptability
 
-<hr class="border-primary">
+---
 
 ## Task 3.2
 
@@ -31,7 +29,7 @@ baselines and metrics from Task 3.1 to analyze “what-if” scenarios. Then usi
 an algorithm that is designed to estimate resilience levels across multiple
 scales, from individual households to entire communities.
 
-<hr class="border-primary">
+---
 
 ## Task 3.3
 
@@ -44,7 +42,7 @@ This task develops a hierarchical optimization model to manage uncertainties
 from climate change and weather extremes by focusing on renewable energy
 infrastructure planning, 
 
-<hr class="border-primary">
+---
 
 ## Task 3.4
 

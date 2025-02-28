@@ -3,30 +3,30 @@
   side: left
 
 - title: About
-  url: "/about/project/"
+  url: "/about/"
   side: left
   dropdown:
   - title: "Project"
-    url: "/about/project/"
+    url: "/about/#project"
   - title: "Team"
-    url: "/about/team/"
+    url: "/about/#team"
 
 - title: Research
   url: "/research/"
   side: left
   dropdown:
   - title: "Task 1"
-    url: "/research/task-1/"
+    url: "/research/#task-1"
   - title: "Task 2"
-    url: "/research/task-2/"
+    url: "/research/#task-2"
   - title: "Task 3"
-    url: "/research/task-3/"
+    url: "/research/#task-3"
   - title: "Task 4"
-    url: "/research/task-4/"
+    url: "/research/#task-4"
   - title: "Task 5"
-    url: "/research/task-5/"
+    url: "/research/#task-5"
   - title: "Task 6"
-    url: "/research/task-6/"
+    url: "/research/#task-6"
 
 - title: "Education & Outreach"
   url: "/education-outreach/"
@@ -37,24 +37,20 @@
   side: left
   dropdown:
   - title: "Publications"
-    url: "/resources/publications/"
+    url: "/resources/#publications"
   - title: "Code"
-    url: "/resources/code/"
+    url: "/resources/#code"
   - title: "Data"
-    url: "/resources/data/"
+    url: "/resources/#data"
 
 - title: "News & Events"
   url: "/news-and-events/"
   side: left
   dropdown:
   - title: "News"
-    url: "/news-and-events/news/"
+    url: "/news-and-events/#news"
   - title: "Calendar"
     url: "/calendar/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
 
 - title: "Contact"
   url: "/contact/"

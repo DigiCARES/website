@@ -1,12 +1,10 @@
 ---
-layout: page
-permalink: /research/task-2/
+layout: section_four
 header:
     title: Task 2
-    image_fullwidth: banner/monitor-1307227.jpg
+section-id: task-2
+columns: 2
 ---
-
-<hr class="border-primary">
 
 ## Task 2.1
 
@@ -23,7 +21,7 @@ team and collaborators for effective community engagements and outreach, and
 help craft tailored energy solutions that inform strategies for addressing the
 unique challenges and needs of each community
 
-<hr class="border-primary">
+---
 
 ## Task 2.2
 
@@ -43,7 +41,7 @@ of various stakeholders.
 
 ![Community conversations diagram](/images/research-tasks/task-2-2.png)
 
-<hr class="border-primary">
+---
 
 ## Task 2.3
 
@@ -58,7 +56,7 @@ attuned to the unique needs and expressed preferences of each community we will
 integrate successful elements from these community-specific energy systems into
 broader energy policies for the local communities and the states of the region.
 
-<hr class="border-primary">
+---
 
 ## Task 2.4
 

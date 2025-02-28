@@ -1,8 +1,6 @@
 ---
 permalink: /search/
 layout: page
-title: "Search"
-sitemap: false
+title: Search
 ---
 
-{% include _google_search.html %}
