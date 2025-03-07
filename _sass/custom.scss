@@ -79,10 +79,11 @@ $accent-2: #0c4f1d;
       margin-right: rem-calc(16);
     }
     img.profile-circle {
+      min-width: 100%;
       border: 0px solid grey-2;
       border-radius: 50%;
       aspect-ratio: 1/1;
-      margin: rem-calc(16);
+      margin: rem-calc(16) 0;
 
 //      @include breakpoint('<=narrow') {
 //        margin: rem-calc(16) auto;
