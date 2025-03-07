@@ -1,0 +1,30 @@
+<div id="news-container" class="container medium">
+  <div class="row">
+    <div class="col-12 col-10-narrow" style="margin: 0 auto;">
+      {% assign sorted_news = site.news | sort: 'date' | reverse %}
+      {% for post in sorted_news %}
+      <div class="card">
+        {% if post.image %}
+        <img class="card-image"
+          src="{{ post.image }}"
+          alt="{{ post.title }}">
+        {% else %}
+        <img class="card-image"
+          hidden>
+        {% endif %}
+        <div class="card-section">
+          <h2>{{ post.title }}</h2>
+          {{ post.content }}
+          <p style="color:#555;">{{ post.date | date: "%B %d, %Y" }}</p>
+          {% if post.more %}
+          <p>
+            <a class="button primary" href="{{ post.more }}" target="_blank">Read more</a>
+          </p>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </div><!-- /.col-12 -->
+  </div><!-- /.row -->
+</div><!-- /.container.medium -->
+

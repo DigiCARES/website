@@ -10,7 +10,6 @@ module Jekyll
       subview = find_subview_document(site)
 
       return "" unless validate_subview(subview, site)
-      Jekyll.logger.info "Subview:", "Found subview document #{@path}"
 
       render_subview(subview, site, context)
     rescue => e
@@ -38,7 +37,6 @@ module Jekyll
     end
 
     def render_subview(subview, site, parent_context)
-      Jekyll.logger.info "Subview:", "Rendering subview document #{@path} inside #{parent_context.registers[:page]["path"]}"
       # Also set the subview in the data to true
       subview.data["subview"] = true
       subview.renderer.run()
