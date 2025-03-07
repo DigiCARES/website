@@ -1,4 +1,34 @@
-@import 'card';
+//@use 'libs/breakpoint' as *;
+
+@use 'sass:math';
+
+/* Variables for styling
+------------------------------------------------------------------- */
+$primary: #015982;
+$secondary: #ffd15e;
+$tertiary: #938ba1;
+$accent-1: #941c2f;
+$accent-2: #0c4f1d;
+
+// define rem-calc function
+@function rem-calc($px) {
+  @return math.div($px, 16) * 1rem;
+}
+
+/* Override theme styles
+------------------------------------------------------------------- */
+
+.navbar {
+  font-size: 0.75em;
+
+  .nav-item {
+    padding: 0.25em 0.5em;
+  }
+
+  .nav-item-right:last-child {
+    margin-right: 1em;
+  }
+}
 
 /* Custom Styles
 ------------------------------------------------------------------- */
@@ -21,19 +51,23 @@
 ------------------------------------------------------------------- */
 
 .team {
+  .row {
+    justify-content: center;
+  }
+
   .card {
     height: 100%;
   }
 
   .flex-container {
     height: 100%;
-
-    @include breakpoint('<=narrow') {
-      flex-direction: column;
-      text-align: center;
-    }
-
     justify-content: flex-start;
+
+//    @include breakpoint('<=narrow') {
+//      flex-direction: column;
+//      text-align: center;
+//    }
+
     .card-section {
       flex: 2;
     }
@@ -43,15 +77,17 @@
       height: fit-content;
       max-width: rem-calc(192);
       margin-right: rem-calc(16);
-   }
+    }
     img.profile-circle {
       border: 0px solid grey-2;
       border-radius: 50%;
       aspect-ratio: 1/1;
       margin: rem-calc(16);
-      @include breakpoint('<=narrow') {
-        margin: rem-calc(16) auto;
-      }
+
+//      @include breakpoint('<=narrow') {
+//        margin: rem-calc(16) auto;
+//      }
+
       &.border-light {
         border: rem-calc(2) solid grey-2;
       }
@@ -59,10 +95,10 @@
         border: rem-calc(2) solid grey-16;
       }
       &.border-primary {
-        border: rem-calc(2) solid red;
+        border: rem-calc(2) solid $primary;
       }
       &.border-secondary {
-        border: rem-calc(2) solid blue;
+        border: rem-calc(2) solid $secondary;
       }
     }
 
@@ -79,6 +115,41 @@
   }
 }
 
+// cards for the news layout
+#news-container {
+  .card {
+    border: rem-calc(2) solid black;
+    border-radius: rem-calc(8);
+    margin-bottom: rem-calc(16);
+
+//    @include breakpoint('<=narrow') {
+//      margin-bottom: rem-calc(8);
+//    }
+
+    &:first-child {
+      margin-top: rem-calc(16);
+    }
+  }
+
+  .card-image {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    margin: 0;
+    border-radius: rem-calc(4) rem-calc(4) 0 0;
+    aspect-ratio: 2;
+    object-fit: cover;
+  }
+
+  .card-section {
+    padding: rem-calc(16);
+
+//    @include breakpoint('<=narrow') {
+//      padding: rem-calc(8);
+//    }
+  }
+}
+
 /* Flex and flex-box related classes
 ------------------------------------------------------------------- */
 
@@ -86,6 +157,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+
   & > .flex-item {
     flex: 1 1 auto;
   }

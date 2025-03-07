@@ -6,6 +6,7 @@ pkgs.mkShell {
     pkgs.bundler
     pkgs.jekyll
     pkgs.rubyPackages.sass
+    pkgs.nodejs
   ];
 
   shellHook = ''
