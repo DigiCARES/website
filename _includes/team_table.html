@@ -26,7 +26,7 @@
             {% assign member_id = "/team/" | append: member %}
             {% assign member_data = site.team | where: "id", member_id | first %}
             <td>
-              <a href="#{{ member_data.id | default: member_data.name | slugify }}">{{ member_data.name }}</a>
+              <a class="scrolly" href="#{{ member_data.id | default: member_data.name | slugify }}">{{ member_data.name }}</a>
             </td>
           {% endfor %}
           {% assign members_size = area.members | size %}
