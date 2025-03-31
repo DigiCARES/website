@@ -1,0 +1,42 @@
+<div class="row">
+<div class="col-12">
+    {% comment %}
+    Figure out the maximum number of researchers in any area of expertise
+    we will use this later for column span and to create blank cells
+    {% endcomment %}
+    {% assign max_members = 0 %}
+    {% for area in site.data.areas_of_expertise %}
+      {% assign member_count = area.members | size %}
+      {% if member_count > max_members %}
+        {% assign max_members = member_count %}
+      {% endif %}
+    {% endfor %}
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th scope="col">Area of Expertise</th>
+          <th scope="colgroup" colspan="{{ max_members }}">Researchers</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for area in site.data.areas_of_expertise %}
+        <tr>
+          <td>{{ area.name }}</td>
+          {% for member in area.members %}
+            {% assign member_id = "/team/" | append: member %}
+            {% assign member_data = site.team | where: "id", member_id | first %}
+            <td>
+              <a href="#{{ member_data.id | default: member_data.name | slugify }}">{{ member_data.name }}</a>
+            </td>
+          {% endfor %}
+          {% assign members_size = area.members | size %}
+          {% assign extra_cells = max_members | minus: members_size %}
+          {% for i in (1..extra_cells) %}
+            <td></td>
+          {% endfor %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+</div>
+</div>

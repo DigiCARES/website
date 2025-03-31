@@ -1,6 +1,7 @@
 //@use 'libs/breakpoint' as *;
 
 @use 'sass:math';
+@use 'sass:color';
 
 /* Variables for styling
 ------------------------------------------------------------------- */
@@ -172,5 +173,29 @@ $accent-2: #0c4f1d;
 .flex-center {
   justify-content: center;
   align-items: center;
+}
+
+/* Custom table styles
+------------------------------------------------------------------- */
+table.table-bordered {
+  text-align: left;
+  width: 100%;
+  margin: rem-calc(16) auto;
+
+  th, td {
+    border: rem-calc(1) solid $primary;
+    padding: rem-calc(8);
+    text-align: left;
+  }
+
+  th {
+    background-color: $primary;
+    color: white;
+  }
+
+  tr:nth-child(even) {
+    color: white;
+    background-color: color.adjust($primary, $lightness: -10%);
+  }
 }
 
