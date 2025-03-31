@@ -19,7 +19,7 @@ type: researcher
 institution: University of Alabama in Huntsville
 title: Lecturer
 # Optional tag to change the display order in relation to other professors
-sort_order: 150
+sort_order: 1505
 # Be sure to place this image in the /images/profiles/ directory.
 image: lavanya-ashokkumar.jpg
 # Include a link to an external website, or some other internal page if desired.

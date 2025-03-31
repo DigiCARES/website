@@ -19,7 +19,7 @@ type: researcher
 institution: Montana State University
 title: Professor and Department Head
 # Optional tag to change the display order in relation to other professors
-sort_order: 70
+sort_order: 704
 # Be sure to place this image in the /images/profiles/ directory.
 image: eric-austin.jpg
 # Include a link to an external website, or some other internal page if desired.
