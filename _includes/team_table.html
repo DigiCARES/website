@@ -11,7 +11,7 @@
         {% assign max_members = member_count %}
       {% endif %}
     {% endfor %}
-    <table class="table table-bordered">
+    <table class="table table-bordered desktop-table">
       <thead>
         <tr>
           <th scope="col">Area of Expertise</th>
@@ -38,5 +38,29 @@
         {% endfor %}
       </tbody>
     </table>
+    {% comment %}
+    Create another table for mobile, this time using the area names as "headers"
+    while the names alternate background colors.
+    {% endcomment %}
+    {% for area in site.data.areas_of_expertise %}
+    <table class="table table-bordered mobile-table">
+      <thead>
+        <tr>
+          <th scope="colgroup">{{ area.name }}</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for member in area.members %}
+        {% assign member_id = "/team/" | append: member %}
+        {% assign member_data = site.team | where: "id", member_id | first %}
+        <tr class="{% if forloop.index0 | modulo: 2 == 0 %}bg-light{% else %}bg-white{% endif %}">
+          <td>
+            <a class="scrolly" href="#{{ member_data.id | default: member_data.name | slugify }}">{{ member_data.name }}</a>
+          </td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    {% endfor %}
 </div>
 </div>
