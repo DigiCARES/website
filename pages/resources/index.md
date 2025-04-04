@@ -9,6 +9,8 @@ header:
         center center/cover no-repeat url(/images/banner/pexels-quang-nguyen-vinh-222549-2735865.jpg)
 ---
 
+{% subview publications_section.md %}
+
 {% comment %}
 {% subview code_section.md %}
 {% subview publications_section.md %}
