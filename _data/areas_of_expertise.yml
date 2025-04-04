@@ -1,0 +1,33 @@
+- id: energy_systems
+  name: Energy Systems and Policy
+  members:
+    - di-shi
+    - patricia-sullivan
+    - fengyu-wang
+    - ying-zhang
+    - lee-spangler
+- id: artificial_intelligence
+  name: Artificial Intelligence and Digital Twin
+  members:
+    - guoling-fan
+    - ying-zhang
+    - faraz-dadgostari
+    - di-shi
+- id: climate_science
+  name: Climate Science and Remote Sensing
+  members:
+    - leiqiu-hu
+    - lulin-xue
+    - john-christy
+    - robert-junod
+    - david-dubois
+    - lavanya-ashokkumar
+- id: social_political_science
+  name: Social and Political Science
+  members:
+    - xin-han
+    - shuang-zhao
+    - julia-haggerty
+    - eric-austin
+    - jason-kirksey
+    - erica-surova

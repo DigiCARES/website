@@ -22,7 +22,7 @@ title: |
     Director of ESSC,
     Atmospheric and Earth Science
 # Optional tag to change the display order in relation to other professors
-sort_order: 150
+sort_order: 1502
 # Be sure to place this image in the /images/profiles/ directory.
 image: john-christy.jpg
 # Include a link to an external website, or some other internal page if desired.

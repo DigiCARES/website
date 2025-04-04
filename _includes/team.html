@@ -1,10 +1,16 @@
-<div class="team team-{{ type }}s column">
-  <div class="row">
+<div class="row">
+<div class="team team-{{ type }}s col-12">
+  <div class="row members">
   {% assign sortedTeam = site.team | sort: "sort_order" %}
   {% for member in sortedTeam %}
   {% unless member.hidden %}
   {% if member.type == type %}
-    <div class="col-3 col-6-narrow">
+    <div
+      id="{{ member.id | default: member.name | slugify }}"
+      class="member col-3 col-6-narrow"
+      data-project="{{ member.projects | default: 'none' }}"
+      data-institution="{{ member.institution | default: 'none' }}"
+    >
       <div class="card border-primary">
         <div class="flex-container">
           {% if member.image %}
@@ -49,5 +55,6 @@
   {% endunless %}
   {% endfor %}
   </div>
+</div>
 </div>
 

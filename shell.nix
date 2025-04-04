@@ -1,18 +1,22 @@
 { pkgs ? import <nixpkgs> {} }:
 
+let
+  gems = pkgs.bundlerEnv {
+    ruby = pkgs.ruby;
+    name = "shell";
+    gemdir = ./.;
+  };
+in
 pkgs.mkShell {
   buildInputs = [
+    gems
     pkgs.ruby
-    pkgs.bundler
-    pkgs.jekyll
-    pkgs.rubyPackages.sass
-    pkgs.nodejs
   ];
 
   shellHook = ''
     echo "Jekyll development environment ready!"
     echo "Ruby version: $(ruby --version)"
-    echo "Bundler version: $(bundler --version)"
+    echo "Bundle version: $(bundle --version)"
 
     exec nu
   '';
