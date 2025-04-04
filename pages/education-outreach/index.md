@@ -10,4 +10,5 @@ header:
 ---
 
 {% subview section.md %}
+{% subview seed_grant_section.md %}
 

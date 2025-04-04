@@ -199,3 +199,21 @@ table.table-bordered {
   }
 }
 
+table.desktop-table {
+  @media (max-width: 768px) {
+    display: none;
+  }
+  @media (min-width: 768px) {
+    display: table;
+  }
+}
+
+table.mobile-table {
+  @media (max-width: 768px) {
+    display: table;
+  }
+  @media (min-width: 768px) {
+    display: none;
+  }
+}
+
