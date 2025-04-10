@@ -13,5 +13,5 @@ gem 'coderay', '1.1.1'
 
 gem "nokogiri", "~> 1.18.6"
 
-gem 'tessellate', '~> 0.1.9'
+gem 'tessellate', '~> 0.1.11'
 
