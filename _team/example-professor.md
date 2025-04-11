@@ -8,7 +8,6 @@
 # more_url fields blank. Finally, remove the hidden field to make your profile #
 # visible.                                                                     #
 ################################################################################
-layout: null
 # Change this to your name
 name: Example Professor
 post-nominal: Ph.D.
@@ -20,13 +19,13 @@ type: researcher
 institution: New Mexico State University
 title: Researcher
 # Optional tag to change the display order in relation to other professors
-# To sort by universities I changed this on each person to match their
-# institution as such:
-# NMSU - 50
-# MSU - 70
-# OSU - 100
-# UAH - 150
-# NSF - 200
+# To sort by universities chang this on each person to match their
+# institution as such, with each n being any number from 00-99.
+# NMSU - 5nn
+# MSU - 7nn
+# OSU - 10nn
+# UAH - 15nn
+# NSF - 20nn
 sort_order: 1001
 # Be sure to place this image in the /images/profiles/ directory.
 image: example.svg
