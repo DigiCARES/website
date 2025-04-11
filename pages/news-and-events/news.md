@@ -5,9 +5,9 @@ permalink: /news-and-events/
 header:
     title: News
     background: |
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
         top left repeat url(/assets/css/images/overlay.png),
-        center center/cover no-repeat url(/images/banner/header_news_osu.jpg)
+        center center/cover no-repeat url(/images/banner/windmills-6183512.jpg)
 extra-scripts:
     - url: /assets/js/news.js
 ---

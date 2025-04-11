@@ -1,5 +1,6 @@
 ---
-layout: section_three
+layout: default
+style: style3
 header:
     title: Project
 section-id: project
@@ -20,4 +21,7 @@ education.
 To do this, DigiCARES will develop an AI-driven digital twin to assist in the
 goal of becoming more climate aware and resilient.
 
+<a class="button scrolly" href="#team">
+    Meet the Team
+</a>
 
