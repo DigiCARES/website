@@ -63,7 +63,7 @@ more: https://ceat.okstate.edu/announcements/ece/2024/zhangs-ai-for-power-team-w
 <details>
     <summary>Click here to view the example post rendered:</summary>
 
-    ![News Post Example](_showcase/news_example.png)
+![News Post Example](_showcase/news_example.png)
 </details>
 
 ## Publications
