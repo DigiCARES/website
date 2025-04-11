@@ -21,5 +21,5 @@ add new news posts, team members, and publications to the website.
 [1]: https://digicares.net
 [2]: https://jekyllrb.com/
 [3]: https://pages.github.com/
-[4]: https://github.com/DigiCARES/website/blob/main/ADDING_CONTENT.md
+[4]: ADDING_CONTENT.md
 
