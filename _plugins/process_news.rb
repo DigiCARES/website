@@ -23,7 +23,11 @@ module Jekyll
 
       def update_cache(document, current_url)
         key = document.relative_path
-        @cache[key] = { 'url' => current_url, 'timestamp' => Time.now.to_i }
+        @cache[key] = {
+          'url' => current_url,
+          'image' => document.data['image'],
+          'timestamp' => Time.now.to_i
+        }
       end
 
       def save
@@ -88,6 +92,9 @@ Jekyll::Hooks.register :news, :pre_render do |document|
   # Check cache validity
   if cache.check_cache(document, url)
     Jekyll.logger.debug "News Metadata Cache:", "Using cached data for #{relative_path}"
+    # Update image from cache (document guaranteed to not have an image due to
+    # previous check)
+    document.data['image'] = cache.instance_variable_get(:@cache)[relative_path]['image']
     next
   end
 
