@@ -53,7 +53,7 @@ $accent-2: #0c4f1d;
 
 .team {
   .row {
-    justify-content: center;
+    justify-content: start;
   }
 
   .card {
@@ -112,6 +112,7 @@ $accent-2: #0c4f1d;
       a {
         align-self: end;
         margin: 0 auto;
+        padding: 0.85em 1.5em;
       }
     }
   }

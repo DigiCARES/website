@@ -17,7 +17,7 @@ section-id: activities
 
 Stay up to date with the latest news and events from the research team.
 
-<button class="">
+<button>
 <a href="/news-and-events/" class="btn btn-primary">Learn More</a>
 </button>
 
@@ -25,7 +25,7 @@ Stay up to date with the latest news and events from the research team.
 
 Learn more about the research projects we are working on.
 
-<button class="">
+<button>
 <a href="/resources/#publications" class="btn btn-primary">Learn More</a>
 </button>
 
@@ -33,7 +33,7 @@ Learn more about the research projects we are working on.
 
 Access our latest publications and conference presentations.
 
-<button class="">
+<button>
 <a href="/about/#project" class="btn btn-primary">Learn More</a>
 </button>
 

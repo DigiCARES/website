@@ -10,6 +10,7 @@
 ################################################################################
 # Change this to your name
 name: Xi Lei
+post-nominal: Ph.D.
 # The type field is used to place you under the correct subheading. It may be of
 # the following values: researcher, postdoc, visiting_scholar, graduate,
 # undergraduate, or other.

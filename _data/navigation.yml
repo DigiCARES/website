@@ -38,10 +38,10 @@
   dropdown:
   - title: "Publications"
     url: "/resources/#publications"
-  - title: "Code"
-    url: "/resources/#code"
-  - title: "Data"
-    url: "/resources/#data"
+  #- title: "Code"
+  #  url: "/resources/#code"
+  #- title: "Data"
+  #  url: "/resources/#data"
 
 - title: "News & Events"
   url: "/news-and-events/"

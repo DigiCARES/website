@@ -2,12 +2,19 @@
 <div class="team team-{{ type }}s col-12">
   <div class="row members">
   {% assign sortedTeam = site.team | sort: "sort_order" %}
+  {% assign firstSortNumber = sortedTeam[0].sort_order | divided_by: 100 %}
   {% for member in sortedTeam %}
   {% unless member.hidden %}
   {% if member.type == type %}
+    {% assign sortNumber = member.sort_order | divided_by: 100 %}
+    {% if sortNumber != firstSortNumber %}
+      {% assign firstSortNumber = sortNumber %}
+      </div>
+      <div class="row members">
+    {% endif %}
     <div
       id="{{ member.id | default: member.name | slugify }}"
-      class="member col-3 col-6-narrow"
+      class="member col-2 col-6-narrow"
       data-project="{{ member.projects | default: 'none' }}"
       data-institution="{{ member.institution | default: 'none' }}"
     >
@@ -30,15 +37,15 @@
               {{ member.name }}
             {% endif %}
             </h2>
-            <p>
+            <p style="text-align:start;">
               {% if member.title %}
               <span class="profile-title">{{ member.title }} -</span>
               {% endif %}
               {{ member.institution }}
             </p>
-            {% unless member.content == blank %}
+            {% unless member.content | strip == '' %}
             <hr class="border-primary">
-            <p>
+            <p style="text-align:start;">
               {{ member.content }}
             </p>
             {% endunless %}
