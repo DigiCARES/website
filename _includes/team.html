@@ -14,7 +14,7 @@
     {% endif %}
     <div
       id="{{ member.id | default: member.name | slugify }}"
-      class="member col-3 col-6-narrow"
+      class="member col-2 col-6-narrow"
       data-project="{{ member.projects | default: 'none' }}"
       data-institution="{{ member.institution | default: 'none' }}"
     >

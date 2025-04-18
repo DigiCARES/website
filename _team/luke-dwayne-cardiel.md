@@ -9,15 +9,14 @@
 # visible.                                                                     #
 ################################################################################
 # Change this to your name
-name: Danlu Cai
-post-nominal: Ph.D.
+name: Luke Dwayne Cardiel
 # The type field is used to place you under the correct subheading. It may be of
 # the following values: researcher, postdoc, visiting_scholar, graduate,
 # undergraduate, or other.
-type: postdoc
+type: undergraduate
 # Bio-tags: the following describe the person's role in the research.
-institution: University of Alabama in Huntsville
-title: Researcher
+institution: Oklahoma State University
+title: Undergraduate Researcher
 # Optional tag to change the display order in relation to other professors
 # To sort by universities chang this on each person to match their
 # institution as such, with each n being any number from 00-99.
@@ -26,11 +25,8 @@ title: Researcher
 # OSU - 10nn
 # UAH - 15nn
 # NSF - 20nn
-sort_order: 1501
+sort_order: 1001
 # Be sure to place this image in the /images/profiles/ directory.
-image: danlu-cai.jpg
-# Include a link to an external website, or some other internal page if desired.
-# If not including a link, delete both fields or leave them blank.
-more_url: https://scholar.google.com/citations?user=7xCMJvgAAAAJ&hl=en
+image: luke-dwayne-cardiel.jpg
 ---
 
