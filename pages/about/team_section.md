@@ -19,6 +19,8 @@ Use the following table to find out which researchers are involved in each
 research area. Click on a name to go to that researcher's profile. Below is a
 list of our researchers along with a link to find out more about them.
 
+{% include team_table.html %}
+
 {% capture type %}researcher{% endcapture %}
 {% include team.html %}
 
