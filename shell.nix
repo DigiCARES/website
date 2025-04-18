@@ -4,7 +4,9 @@ let
   gems = pkgs.bundlerEnv {
     ruby = pkgs.ruby;
     name = "shell";
-    gemdir = ./.;
+    gemfile = ./Gemfile;
+    lockfile = ./Gemfile.lock;
+    gemset = ./gemset.nix;
   };
 in
 pkgs.mkShell {

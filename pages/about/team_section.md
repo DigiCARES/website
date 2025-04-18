@@ -16,17 +16,15 @@ header:
 ### Researchers
 
 Use the following table to find out which researchers are involved in each
-research area. Click on a name to go to that researcher's profile.
-
-{% comment %}
-Include a table of researchers and what project they are on.
-{% endcomment %}
-{% include team_table.html %}
-
-Below is a list of our researchers along with a link to find out more about
-them.
+research area. Click on a name to go to that researcher's profile. Below is a
+list of our researchers along with a link to find out more about them.
 
 {% capture type %}researcher{% endcapture %}
+{% include team.html %}
+
+### Previous Researchers
+
+{% capture type %}previous_researcher{% endcapture %}
 {% include team.html %}
 
 ### Postdoctoral and Visiting Scholars
