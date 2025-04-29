@@ -4,7 +4,7 @@ permalink: /research/
 header:
     title: Research
     background: |
-        linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
         top left repeat url(/assets/css/images/overlay.png),
         center center/cover no-repeat url(/images/banner/ai-8529399.jpg)
     color: '#fff'

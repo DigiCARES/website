@@ -1,7 +1,7 @@
 ---
 layout: section_two
 header:
-    title: Research
+    title: Overview of Activities
 images:
     - link: '#overview'
       url: /images/research-tasks/research-overview.png
