@@ -41,6 +41,7 @@ stakeholder analysis approach to thoroughly understand the roles and influences
 of various stakeholders.
 
 ![A roadmap of community conversations](/images/research-tasks/task-2-2.png)
+
 *Figure 2: A roadmap of community conversations.*
 
 ---

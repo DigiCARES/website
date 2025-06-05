@@ -52,10 +52,11 @@ $accent-2: #0c4f1d;
 ------------------------------------------------------------------- */
 
 img {
-  width: 100%;
+  width: 60%;
   height: auto;
   max-width: 100%;
   margin: rem-calc(16) auto;
+  display: block;
   border-radius: rem-calc(4);
   aspect-ratio: auto;
 

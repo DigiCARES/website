@@ -36,5 +36,6 @@ insights, LLMs simplify the digital twin’s outputs and highlight key trends in
 an accessible manner.
 
 ![Integrate LLM into digital twin.](/images/research-tasks/task-6-2.png)
+
 *Figure 6: Integrate LLM into digital twin.*
 
