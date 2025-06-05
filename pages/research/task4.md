@@ -32,7 +32,11 @@ forecasting within the digital twin, a critical aspect for sustainable energy
 planning and operation. The task addresses the integration of long-term climate
 changes and weather extremes into the behavior modeling of energy prosumers.
 
-![Model input/outputs](/images/research-tasks/task-4-2.png)
+<img src="/images/research-tasks/task-4-2.png" alt="Model input/outputs"
+style="width: 60%; height: auto;">
+
+*Figure 4: Model input/outputs for AI-powered spatial-temporal renewable
+forecasting.*
 
 ---
 

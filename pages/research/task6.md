@@ -35,7 +35,8 @@ wide range of users. By translating technical data into clear, actionable
 insights, LLMs simplify the digital twin’s outputs and highlight key trends in
 an accessible manner.
 
-![Integrate LLM into digital twin.](/images/research-tasks/task-6-2.png)
+<img src="/images/research-tasks/task-6-2.png" alt="Integrate LLM for feedback
+processing" style="width: 55%; height: auto;">
 
 *Figure 6: Integrate LLM into digital twin.*
 
