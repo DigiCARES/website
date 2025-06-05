@@ -1,12 +1,13 @@
 ---
 layout: section_four
+style: style3
 header:
-    title: Task 5
+    title: <strong>Task 5</strong>
 section-id: task-5
-columns: 2
+columns: 1
 ---
 
-## Task 5.1
+## <strong>Task 5.1</strong>
 
 **Develop and refine digital twins for the three communities.**
 
@@ -22,7 +23,7 @@ infrastructure.
 
 ---
 
-## Task 5.2
+## <strong>Task 5.2</strong>
 
 **Evaluate energy infrastructure upgrade options.**
 
@@ -34,7 +35,7 @@ each community.
 
 ---
 
-## Task 5.3
+## <strong>Task 5.3</strong>
 
 **Analyze policy impact and energy scenarios with digital twins.**
 
@@ -48,7 +49,7 @@ community resilience, energy equity, and sustainability.
 
 ---
 
-## Task 5.4
+## <strong>Task 5.4</strong>
 
 **Report, recommend, and disseminate knowledge.**
 

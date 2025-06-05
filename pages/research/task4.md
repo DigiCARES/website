@@ -1,12 +1,13 @@
 ---
 layout: section_four
+style: style3
 header:
-    title: Task 4
+    title: <strong>Task 4</strong>
 section-id: task-4
-columns: 2
+columns: 1
 ---
 
-## Task 4.1
+## <strong>Task 4.1</strong>
 
 **Community-focused energy demand forecasting**
 
@@ -20,7 +21,7 @@ models for community-level energy demand employing recurrent neural networks
 
 ---
 
-## Task 4.2
+## <strong>Task 4.2</strong>
 
 **AI-powered spatial-temporal renewable forecasting.**
 
@@ -35,7 +36,7 @@ changes and weather extremes into the behavior modeling of energy prosumers.
 
 ---
 
-## Task 4.3
+## <strong>Task 4.3</strong>
 
 **High-fidelity future scenario generation.**
 
@@ -47,7 +48,7 @@ predictive capabilities.
 
 ---
 
-## Task 4.4
+## <strong>Task 4.4</strong>
 
 **Development of an integrated climate-energy-community digital twin platform.**
 

@@ -1,12 +1,13 @@
 ---
 layout: section_four
+style: style3
 header:
-    title: Task 2
+    title: <strong>Task 2</strong>
 section-id: task-2
-columns: 2
+columns: 1
 ---
 
-## Task 2.1
+## <strong>Task 2.1</strong>
 
 **Conduct a socioeconomic status (SES) analysis to inform the development of
 equitable energy systems, and guide community outreach and workforce development
@@ -23,7 +24,7 @@ unique challenges and needs of each community
 
 ---
 
-## Task 2.2
+## <strong>Task 2.2</strong>
 
 **Utilize proven strategies for conducting community conversations to
 effectively engage the broader communities in identifying and co-developing
@@ -39,11 +40,12 @@ energy planning through engaged community conversations. The task employs a
 stakeholder analysis approach to thoroughly understand the roles and influences
 of various stakeholders.
 
-![Community conversations diagram](/images/research-tasks/task-2-2.png)
+![A roadmap of community conversations](/images/research-tasks/task-2-2.png)
+*Figure 2: A roadmap of community conversations.*
 
 ---
 
-## Task 2.3
+## <strong>Task 2.3</strong>
 
 **Community-centric energy system design and implementation.**
 
@@ -58,7 +60,7 @@ broader energy policies for the local communities and the states of the region.
 
 ---
 
-## Task 2.4
+## <strong>Task 2.4</strong>
 
 **Developing context-sensitive energy justice measures for the digital twin.**
 
