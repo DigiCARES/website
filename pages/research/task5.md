@@ -19,7 +19,10 @@ diverse datasets, including demographics, climate patterns, and energy system
 specifics, to accurately represent each community’s unique energy
 infrastructure.
 
-![Platforms and overall model](/images/research-tasks/task-5-1.png)
+<img src="/images/research-tasks/task-5-1.png" alt="Platforms and overall model"
+style="width: 70%; height: auto;">
+
+*Figure 5: Platforms and overall model for digital twin development.*
 
 ---
 

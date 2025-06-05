@@ -34,7 +34,10 @@ various scales affect energy systems by synthesizing long-term climate
 observations and simulations from 1980 to 2060. Results will be integrated into
 task 1.1 to provide more comprehensive testing of climate hypotheses.
 
-![The hierarchical multi-scale structure of energy-related climate risk analyses](/images/research-tasks/task-1-2.png)
+<img src="/images/research-tasks/task-1-2.png" alt="The hierarchical multi-scale
+structure of energy-related climate risk analyses" style="width: 45%; height:
+auto;">
+
 *Figure 1: The hierarchical multi-scale structure of energy-related climate risk
 analyses.*
 
