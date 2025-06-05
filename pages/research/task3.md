@@ -1,12 +1,13 @@
 ---
 layout: section_four
+style: style3
 header:
-    title: Task 3
+    title: <strong>Task 3</strong>
 section-id: task-3
-columns: 2
+columns: 1
 ---
 
-## Task 3.1
+## <strong>Task 3.1</strong>
 
 **Develop community-centric and location-based metrics.**
 
@@ -18,7 +19,7 @@ energy burden and equity, and adaptability
 
 ---
 
-## Task 3.2
+## <strong>Task 3.2</strong>
 
 **Model interactions and impact dynamics.**
 
@@ -31,7 +32,7 @@ scales, from individual households to entire communities.
 
 ---
 
-## Task 3.3
+## <strong>Task 3.3</strong>
 
 **Develop a framework for climate-adaptive multi-timescale infrastructure optimization for
 renewable energy systems.**
@@ -42,9 +43,12 @@ This task develops a hierarchical optimization model to manage uncertainties
 from climate change and weather extremes by focusing on renewable energy
 infrastructure planning, 
 
+![A multi-timescale uncertainty handling procedure.](/images/research-tasks/task-3-3.png)
+*Figure 3: A multi-timescale uncertainty handling
+
 ---
 
-## Task 3.4
+## <strong>Task 3.4</strong>
 
 **Model community-centric load restoration in the aftermath of power outages.**
 

@@ -1,12 +1,14 @@
 ---
-layout: section_two
+layout: section_four
+style: style1
+columns: 2
 header:
     title: Overview of Activities
-images:
-    - link: '#overview'
-      url: /images/research-tasks/research-overview.png
-      alt: Research Overview
-      caption: Research Overview
+#images:
+#    - link: '#overview'
+#      url: /images/research-tasks/research-overview.png
+#      alt: Research Overview
+#      caption: Research Overview
 section-id: overview
 ---
 
@@ -22,3 +24,7 @@ questions, each directly linked to specific research tasks. See the diagram
 below for a general overview of how our research tasks, activities, and
 deliverables are linked.
 
+---
+
+<img src="/images/research-tasks/research-overview.png" alt="Research Overview"
+class="img-fluid">

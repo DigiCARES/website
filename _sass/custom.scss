@@ -48,6 +48,23 @@ $accent-2: #0c4f1d;
   }
 }
 
+/* Ensure images in articles are scaled properly
+------------------------------------------------------------------- */
+
+img {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin: rem-calc(16) auto;
+  border-radius: rem-calc(4);
+  aspect-ratio: auto;
+
+  @media (max-width: 768px) {
+    margin: rem-calc(8) auto;
+    aspect-ratio: unset;
+  }
+}
+
 /* Flex classes for profile cards
 ------------------------------------------------------------------- */
 

@@ -1,7 +1,9 @@
 ---
-layout: section_three
+layout: section_four
+style: style2
+columns: 1
 header:
-    title: Research Questions
+    title: <strong>Research Questions</strong>
 section-id: questions
 ---
 

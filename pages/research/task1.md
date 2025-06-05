@@ -1,12 +1,13 @@
 ---
 layout: section_four
+style: style3
 header:
-    title: Task 1
+    title: <strong>Task 1</strong>
 section-id: task-1
-columns: 2
+columns: 1
 ---
 
-## Task 1.1
+## <strong>Task 1.1</strong>
 
 **Construct cross-scale data compilation from long-term regional and national weather
 observations and high-resolution historical and future climate simulations.**
@@ -21,7 +22,7 @@ communities.
 
 ---
 
-## Task 1.2
+## <strong>Task 1.2</strong>
 
 **Identify historical and future shifting of climate at multiple scales in
 shaping the energy sector**
@@ -33,9 +34,13 @@ various scales affect energy systems by synthesizing long-term climate
 observations and simulations from 1980 to 2060. Results will be integrated into
 task 1.1 to provide more comprehensive testing of climate hypotheses.
 
+![The hierarchical multi-scale structure of energy-related climate risk analyses](/images/research-tasks/task-1-2.png)
+*Figure 1: The hierarchical multi-scale structure of energy-related climate risk
+analyses.*
+
 ---
 
-## Task 1.3
+## <strong>Task 1.3</strong>
 
 **Assess the roles of land-atmosphere interactions in diversifying climate change-induced risks
 in energy systems**
@@ -47,11 +52,9 @@ change-induced risks to energy systems. The task focuses on how extreme weather
 events, intensified by climate change, and influenced by human activities like
 urbanization and agriculture
 
-![Level of interactions with country, state, urban areas](/images/research-tasks/task-1-3.png)
-
 ---
 
-## Task 1.4
+## <strong>Task 1.4</strong>
 
 **Predict climate-driven change in renewable energy production.**
 

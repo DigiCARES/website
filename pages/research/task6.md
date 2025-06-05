@@ -1,12 +1,13 @@
 ---
 layout: section_four
+style: style3
 header:
-    title: Task 6
+    title: <strong>Task 6</strong>
 section-id: task-6
-columns: 2
+columns: 1
 ---
 
-## Task 6.1
+## <strong>Task 6.1</strong>
 
 **Integrate LLMs for enhanced feedback processing in digital twin system.**
 
@@ -21,7 +22,7 @@ in real-time updates and simulations.
 
 ---
 
-## Task 6.2
+## <strong>Task 6.2</strong>
 
 **Enhanced data interpretation and visualization through LLM integration.**
 
@@ -34,4 +35,6 @@ wide range of users. By translating technical data into clear, actionable
 insights, LLMs simplify the digital twin’s outputs and highlight key trends in
 an accessible manner.
 
+![Integrate LLM into digital twin.](/images/research-tasks/task-6-2.png)
+*Figure 6: Integrate LLM into digital twin.*
 
