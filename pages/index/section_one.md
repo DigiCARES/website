@@ -1,5 +1,6 @@
 ---
 layout: section_one
+style: style1
 header:
     body: |
         DigiCARES (AI-driven Digital Twinning for Climate-Aware Resilience) is a
