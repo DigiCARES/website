@@ -16,7 +16,7 @@ section-id: questions
     scenarios?
 
 <ol start="4">
-    <li>
+<li>
  What new community-centric models and methodologies can be developed to
     proactively address energy equity and resilience in the context of the changing
     climate? 
