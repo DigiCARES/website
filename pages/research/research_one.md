@@ -1,7 +1,7 @@
 ---
 layout: section_four
 style: style1
-columns: 2
+columns: 1
 header:
     title: Overview of Activities
 #images:
@@ -12,19 +12,18 @@ header:
 section-id: overview
 ---
 
-Our central scientific hypothesis posits that the escalating impacts of climate
-change are exacerbating the energy burden and threatening the resilience of
-energy systems, particularly in underserved communities. We hypothesize that
-AI-driven digital twin technologies can effectively address these challenges
-through enhanced forecasting, improved energy system planning, optimized
-operations, and informed energy policy.
+Our central scientific hypothesis posits that increasing climate variability and
+uncertainty are intensifying the energy burden and threatening the resilience of
+energy systems, especially in regions with limited access to reliable resources.
+We hypothesize that AI-driven digital twin technologies can effectively address
+these challenges through enhanced forecasting, improved energy system planning,
+optimized operations, and informed energy policy.
 
-To rigorously explore this hypothesis, we have formulated the number of research
-questions, each directly linked to specific research tasks. See the diagram
-below for a general overview of how our research tasks, activities, and
-deliverables are linked.
+To rigorously explore this hypothesis, we have formulated a number of research
+questions, each directly linked to specific research tasks. Figure 1 provides an
+overview of how our questions, tasks, and outcomes are interconnected.
 
 ---
 
 <img src="/images/research-tasks/research-overview.png" alt="Research Overview"
-class="img-fluid">
+class="img-fluid" style="height:25em;width:auto;">
