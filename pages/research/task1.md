@@ -35,11 +35,12 @@ observations and simulations from 1980 to 2060. Results will be integrated into
 task 1.1 to provide more comprehensive testing of climate hypotheses.
 
 <img src="/images/research-tasks/task-1-2.png" alt="The hierarchical multi-scale
-structure of energy-related climate risk analyses" style="width: 45%; height:
-auto;">
+structure of energy-related climate risk analyses">
 
-*Figure 1: The hierarchical multi-scale structure of energy-related climate risk
-analyses.*
+<p class="caption">
+    <strong>Figure 2:</strong> The hierarchical multi-scale structure of energy-related
+    climate risk analyses.
+</p>
 
 ---
 

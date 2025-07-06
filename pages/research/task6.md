@@ -36,7 +36,9 @@ insights, LLMs simplify the digital twin’s outputs and highlight key trends in
 an accessible manner.
 
 <img src="/images/research-tasks/task-6-2.png" alt="Integrate LLM for feedback
-processing" style="width: 55%; height: auto;">
+processing">
 
-*Figure 6: Integrate LLM into digital twin.*
+<p class="caption">
+    <strong>Figure 7:</strong> Integrate LLM into digital twin.
+</p>
 

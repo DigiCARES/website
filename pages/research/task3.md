@@ -44,9 +44,11 @@ from climate change and weather extremes by focusing on renewable energy
 infrastructure planning, 
 
 <img src="/images/research-tasks/task-3-3.png" alt="A multi-timescale
-uncertainty handling procedure" style="width: 60%; height: auto;">
+uncertainty handling procedure">
 
-*Figure 3: A multi-timescale uncertainty handling*
+<p class="caption">
+    <strong>Figure 4:</strong> A multi-timescale uncertainty handling procedure.
+</p>
 
 ---
 

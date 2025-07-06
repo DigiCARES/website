@@ -11,25 +11,13 @@ $tertiary: #938ba1;
 $accent-1: #941c2f;
 $accent-2: #0c4f1d;
 
+$font-family: 'Open Sans', sans-serif;
+
 // define rem-calc function
 @function rem-calc($px) {
   @return math.div($px, 16) * 1rem;
 }
 
-/* Override theme styles
-------------------------------------------------------------------- */
-
-.navbar {
-  font-size: 0.75em;
-
-  .nav-item {
-    padding: 0.25em 0.5em;
-  }
-
-  .nav-item-right:last-child {
-    margin-right: 1em;
-  }
-}
 
 /* Custom Styles
 ------------------------------------------------------------------- */
@@ -48,13 +36,17 @@ $accent-2: #0c4f1d;
   }
 }
 
+.caption {
+  text-align: center;
+}
+
 /* Ensure images in articles are scaled properly
 ------------------------------------------------------------------- */
 
 section {
   img {
     background-color: white;
-    width: 60%;
+    width: 80%;
     height: auto;
     max-width: 100%;
     margin: rem-calc(16) auto;
@@ -65,6 +57,7 @@ section {
     @media (max-width: 768px) {
       margin: rem-calc(8) auto;
       aspect-ratio: unset;
+      width: 100%;
     }
   }
 }
