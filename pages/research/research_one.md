@@ -26,4 +26,7 @@ overview of how our questions, tasks, and outcomes are interconnected.
 ---
 
 <img src="/images/research-tasks/research-overview.png" alt="Research Overview"
-class="img-fluid" style="height:25em;width:auto;">
+class="img-fluid" style="padding:1.5em 0.5em;">
+<p class="caption">
+    <strong>Figure 1:</strong> Research Goals, Planned Tasks, and Major Deliverables
+</p>
