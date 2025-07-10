@@ -17,7 +17,7 @@ post-nominal: Ph.D.
 type: postdoc
 # Bio-tags: the following describe the person's role in the research.
 institution: University of Alabama in Huntsville
-title: Researcher
+title: Postdoctoral Researcher
 # Optional tag to change the display order in relation to other professors
 # To sort by universities chang this on each person to match their
 # institution as such, with each n being any number from 00-99.
