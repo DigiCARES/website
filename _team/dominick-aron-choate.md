@@ -27,6 +27,6 @@ title: Undergraduate Researcher from OK-LSAMP
 # NSF - 20nn
 sort_order: 1001
 # Be sure to place this image in the /images/profiles/ directory.
-image: example.svg
+image: Dominick.jpg
 ---
 
