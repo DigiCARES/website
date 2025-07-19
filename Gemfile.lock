@@ -68,10 +68,10 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    mini_portile2 (2.8.8)
+    mini_portile2 (2.8.9)
     net-http (0.6.0)
       uri
-    nokogiri (1.18.6)
+    nokogiri (1.18.8)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -112,7 +112,7 @@ DEPENDENCIES
   jekyll-asciidoc
   jekyll-gist
   jekyll-paginate
-  nokogiri (~> 1.18.6)
+  nokogiri (~> 1.18.8)
   tessellate (~> 0.1.15)
 
 BUNDLED WITH
