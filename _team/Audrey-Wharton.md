@@ -27,6 +27,6 @@ title: Undergraduate Student
 # NSF - 20nn
 sort_order: 701
 # Be sure to place this image in the /images/profiles/ directory.
-image: Audrey-Wharton.png
+image: Audrey-Wharton.jpg
 ---
 
