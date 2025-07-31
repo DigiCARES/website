@@ -2,7 +2,7 @@
 layout: section_four
 style: style3
 header:
-    title: <strong>Task 3</strong>
+    title: <strong>Task 3 Community-Centric Planning and Operation of Resilient Energy Ecosystem </strong>
 section-id: task-3
 columns: 1
 ---
