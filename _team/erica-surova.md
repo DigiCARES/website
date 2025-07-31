@@ -18,7 +18,7 @@ type: researcher
 institution: New Mexico State University
 title: Director, Analytics Manager at the Center for Community Analysis
 # Optional tag to change the display order in relation to other professors
-sort_order: 509
+sort_order: 602
 # Be sure to place this image in the /images/profiles/ directory.
 image: erica-surova.jpg
 # Include a link to an external website, or some other internal page if desired.
