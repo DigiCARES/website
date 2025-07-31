@@ -2,7 +2,7 @@
 layout: section_four
 style: style3
 header:
-    title: <strong>Task 2</strong>
+    title: <strong>Task 2 Sociodemographic Energy Mapping </strong>
 section-id: task-2
 columns: 1
 ---
