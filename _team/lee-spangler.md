@@ -19,7 +19,7 @@ type: researcher
 institution: Montana State University
 title: Director of the Energy Research Institute
 # Optional tag to change the display order in relation to other professors
-sort_order: 705
+sort_order: 810
 # Be sure to place this image in the /images/profiles/ directory.
 image: lee-spangler.jpg
 # Include a link to an external website, or some other internal page if desired.
