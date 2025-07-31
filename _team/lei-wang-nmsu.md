@@ -9,7 +9,7 @@
 # visible.                                                                     #
 ################################################################################
 # Change this to your name
-name: Praveen Verma
+name: Lei Wang
 post-nominal: Ph.D.
 # The type field is used to place you under the correct subheading. It may be of
 # the following values: researcher, postdoc, visiting_scholar, graduate,
