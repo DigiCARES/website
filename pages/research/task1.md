@@ -2,7 +2,7 @@
 layout: section_four
 style: style3
 header:
-    title: <strong>Task 1</strong>
+    title: <strong>Task 1 Multi-Scale Climate Dynamics: Delving into the Climate-Energy Nexus</strong>
 section-id: task-1
 columns: 1
 ---
