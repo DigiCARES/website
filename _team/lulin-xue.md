@@ -19,7 +19,7 @@ type: researcher
 institution: NSF National Center for Atmospheric Research
 title: Project Scientist
 # Optional tag to change the display order in relation to other professors
-sort_order: 2001
+sort_order: 1510
 # Be sure to place this image in the /images/profiles/ directory.
 image: lulin-xue.png
 # Include a link to an external website, or some other internal page if desired.
