@@ -2,7 +2,7 @@
 layout: section_four
 style: style3
 header:
-    title: <strong>Task 4</strong>
+    title: <strong>Task 4 Digital Twinning the Climate-Energy Ecosystem - AI-Driven Simulation and Prediction </strong>
 section-id: task-4
 columns: 1
 ---
