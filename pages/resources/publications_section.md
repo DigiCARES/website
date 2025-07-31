@@ -7,7 +7,7 @@ section-id: publications
 <h1 style="font-size:2.5em;font-weight:bold;">
 Publications
 </h1>
-
+ 1. T. Vo, L. Hu, L. Xue, and S. Chen, "Trends in Cloud Cover Across CONUS (1980-2020). Journal of Climate, in press.
  1. P. Verma, D. Shi, Y. Ye, F. Wang, and Y. Zhang, "Impact of Solar Integration
     on Grid Security: Unveiling Vulnerabilities in *Load Redistribution Attacks,"
     in Proc. 2025 Powertech*, 2025.
