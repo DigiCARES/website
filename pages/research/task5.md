@@ -2,7 +2,7 @@
 layout: section_four
 style: style3
 header:
-    title: <strong>Task 5</strong>
+    title: <strong>Task 5 Digital Twin Driven System Planning and Energy Policy Analysis - A Pilot Study in New Mexico </strong>
 section-id: task-5
 columns: 1
 ---
