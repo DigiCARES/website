@@ -19,7 +19,7 @@ type: researcher
 institution: New Mexico State University
 title: State Climatologist
 # Optional tag to change the display order in relation to other professors
-sort_order: 504
+sort_order: 600
 # Be sure to place this image in the /images/profiles/ directory.
 image: david-dubois.png
 # Include a link to an external website, or some other internal page if desired.
