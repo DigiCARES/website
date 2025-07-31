@@ -2,7 +2,7 @@
 layout: section_four
 style: style3
 header:
-    title: <strong>Task 6</strong>
+    title: <strong>Task 6 Engage360 - Translating Energy Insights into Interactive Visual Narratives </strong>
 section-id: task-6
 columns: 1
 ---
