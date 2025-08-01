@@ -9,4 +9,4 @@ Congratulations to Dr. Di Shi and Dr. Fengyu Wang of the Klipsch School of Elect
 
 Dr. Shi was named the Paul W. and Valerie Klipsch Distinguished Professor, and Dr. Wang received the Public Service Company of New Mexico Professorship in Utility Management—both in recognition of their leadership, student mentorship, research excellence, and service to the university and broader community.
 
-Their work on renewable energy integration and AI-driven grid modernization continues to make a meaningful impact on energy equity and infrastructure resilience in New Mexico.
+Their work on renewable energy integration and AI-driven grid modernization continues to make a meaningful impact on energy affordability and infrastructure resilience in New Mexico.
