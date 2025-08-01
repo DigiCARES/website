@@ -1,7 +1,7 @@
 ---
 title: |
     Dr. Ying Zhang and Ph.D. Student Sungjoo Chung Honored with OSU CEAT Awards
-date: 2025-04-30
+date: 2025-04-16
 more: https://news.okstate.edu/articles/engineering-architecture-technology/2025/college-of-engineering-architecture-and-technology-holds-banquet-to-honor-faculty-staff-students.html
 ---
 
