@@ -3,7 +3,7 @@ layout: section_four
 style: style1
 columns: 1
 header:
-    title: Overview of Activities
+    title: <strong>Overview of Activities</strong>
 #images:
 #    - link: '#overview'
 #      url: /images/research-tasks/research-overview.png
