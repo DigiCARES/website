@@ -7,6 +7,8 @@ section-id: publications
 <h1 style="font-size:2.5em;font-weight:bold;">
 Publications
 </h1>
+ 1. M. Prothan, C. Fan, F. Wang, and D. Shi, "Segmented Wind Power Curve Calibration Using Sub-Hourly Power Bias Analysis," in *Proc. 2024
+    57th North American Power Symp. (NAPS)*, pp. 1-6, Oct. 2025.    
  1. S. Fanifosi, Y. Ye, P. Verma, F. Wang, and D. Shi, "Uncertainty-Aware Deep Reinforcement Learning for Robust Autonomous Voltage Control," in *Proc. 2024
     57th North American Power Symp. (NAPS)*, pp. 1-6, Oct. 2025.    
  1. T. Vo, L. Hu, L. Xue, and S. Chen, "Trends in Cloud Cover Across CONUS (1980-2020). Journal of Climate, in press.
