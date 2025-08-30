@@ -17,7 +17,7 @@ post-nominal: Ph.D.
 type: researcher
 # Bio-tags: the following describe the person's role in the research.
 institution: Montana State University
-title: Associate Professor
+title: Professor
 # Optional tag to change the display order in relation to other professors
 sort_order: 703
 # Be sure to place this image in the /images/profiles/ directory.
