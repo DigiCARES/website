@@ -68,7 +68,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    mini_portile2 (2.8.8)
+    mini_portile2 (2.8.9)
     net-http (0.6.0)
       uri
     nokogiri (1.18.9)
