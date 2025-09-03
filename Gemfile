@@ -11,7 +11,7 @@ end
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
 
-gem "nokogiri", "~> 1.18.8"
+gem 'nokogiri', '~> 1.18', '>= 1.18.9'
 
-gem 'tessellate', '~> 0.1.15'
+gem 'tessellate', '~> 0.1.16'
 

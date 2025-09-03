@@ -12,6 +12,9 @@ title: 'DigiCARES'
 theme: tessellate
 copyright: 'DigiCARES 2025'
 
+# Google Analytics Tracking Tag
+ga: G-74K5HL9GPC
+
 #     ______      ____          __  _                 
 #    / ____/___  / / /__  _____/ /_(_)___  ____  _____
 #   / /   / __ \/ / / _ \/ ___/ __/ / __ \/ __ \/ ___/
