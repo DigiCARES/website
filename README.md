@@ -17,6 +17,17 @@ hosted on [GitHub Pages][3] at the following URL: [https://digicares.net][1].
 See the [ADDING_CONTENT.md][4] file for instructions on how to
 add new news posts, team members, and publications to the website.
 
+### Updating Gems
+
+To add or update Ruby gems, modify the `Gemfile` and run:
+
+```bash
+bundix -l
+```
+
+This will update the `Gemfile.lock` file with the new gem versions, as well as
+the `gemset.nix` file if you are using Nix.
+
 
 [1]: https://digicares.net
 [2]: https://jekyllrb.com/
