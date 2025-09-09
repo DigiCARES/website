@@ -20,7 +20,7 @@ title: MS Student
 # Optional tag to change the display order in relation to other professors
 sort_order: 523
 # Be sure to place this image in the /images/profiles/ directory.
-image: Emilio_Martinez.png
+image: emilio.png
 more_text: LinkedIn
 more_url: https://www.linkedin.com/in/carlos-emilio-hultsch-martinez-168b46263/
 ---
