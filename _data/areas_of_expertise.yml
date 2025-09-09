@@ -16,6 +16,7 @@
 - id: climate_science
   name: Climate Science and Remote Sensing
   members:
+    - chao_fan
     - leiqiu-hu
     - lulin-xue
     - john-christy
