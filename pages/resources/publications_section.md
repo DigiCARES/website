@@ -7,6 +7,7 @@ section-id: publications
 <h1 style="font-size:2.5em;font-weight:bold;">
 Publications
 </h1>
+ 1. X. Wang, D. Shi, and F. Wang, "Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence," IEEE Open Access Journal of Power and Energy, Sept. 2025.
  1. M. Prothan, C. Fan, F. Wang, and D. Shi, "Segmented Wind Power Curve Calibration Using Sub-Hourly Power Bias Analysis," in *Proc. 2024
     57th North American Power Symp. (NAPS)*, pp. 1-6, Oct. 2025.    
  1. S. Fanifosi, Y. Ye, P. Verma, F. Wang, and D. Shi, "Uncertainty-Aware Deep Reinforcement Learning for Robust Autonomous Voltage Control," in *Proc. 2024
