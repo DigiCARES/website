@@ -3,8 +3,8 @@ layout: section_one
 style: style1
 header:
     body: |
-        DigiCARES (AI-driven Digital Twinning for Climate-Aware Resilience) is a
-        research project funded by the National Science Foundation (NSF). More
+        DigiCARES (AI-driven Digital Twinning for Climate-Aware Resilience) is a $6M
+        research project funded by the National Science Foundation (NSF) under Award No. <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2418359&HistoricalAwards=false">2418359</a>. More
         information about DigiCARES can be found <a href="/about/">here.</a>
 icons:
     - icon: fa-newspaper
