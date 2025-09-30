@@ -5,12 +5,7 @@ style: style5
 header:
     title: Team
     body: |
-        The team of DigiCARES started with the people initiating the research
-        and requesting grants from the National Science Foundation (NSF). It's
-        the researchers' work on the project that enables us to help empower
-        communities. There are many other people who have contributed to the
-        DigiCARES project in business, marketing, and other areas. Find our team
-        members, and other contributors below.
+        The DigiCARES team began with the researchers who initiated the project and secured support from the National Science Foundation (NSF). Their ongoing work drives the scientific and technical advances that enable us to empower communities. Beyond the core research group, many others have contributed to DigiCARES through business, outreach, marketing, and operational support. Meet our team members and contributors below.
 ---
 
 ### Researchers
