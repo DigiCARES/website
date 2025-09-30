@@ -9,7 +9,7 @@ cta:
     text: Meet the Team
 ---
 
-DigiCARES is a transformative initiative designed to strengthen energy system planning and operations across New Mexico, Montana, Oklahoma, and Alabama. By leveraging advanced artificial intelligence, digital twin technology, and renewable energy solutions, the project aims to directly benefit underserved communities in these regions.
+DigiCARES is a transformative initiative designed to strengthen energy system planning and operations across New Mexico, Montana, Oklahoma, and Alabama. By leveraging advanced artificial intelligence, digital twin technology, and renewable energy solutions, the project aims to directly benefit communities in these regions.
 
 The goals of DigiCARES are to optimize energy utilization, expand renewable energy integration, and enhance climate resilience. At the same time, the project places strong emphasis on workforce development in AI and energy systems, while fostering diversity and inclusion in STEM education.
 
