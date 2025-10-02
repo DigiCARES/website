@@ -6,7 +6,7 @@
 #
 layout: page
 header:
-    title: "<strong> DigiCARES </strong>"
+    title: "<strong> DigiCARES </strong> Accelerating Community-Centric Energy Transformation through AI-driven Digital Twinning "
     background: |
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
         top left repeat url(/assets/css/images/overlay.png),
