@@ -7,6 +7,7 @@ section-id: publications
 <h1 style="font-size:2.5em;font-weight:bold;">
 Publications
 </h1>
+ 1. Fan C, Prothan MJ, Zhu Y, Shi D. Two Decades of Urban Transformation and Heat Dynamics in a Desert Metropolis: Linking Land Cover, Demographics, and Surface Temperature. *Land*. 2025 Oct 28;14(11):2141. [[Link.]][6]
  1. X. Wang, D. Shi, and F. Wang, "Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence," IEEE Open Access Journal of Power and Energy, Sept. 2025.
  1. M. Prothan, C. Fan, F. Wang, and D. Shi, "Segmented Wind Power Curve Calibration Using Sub-Hourly Power Bias Analysis," in *Proc. 2024
     57th North American Power Symp. (NAPS)*, pp. 1-6, Oct. 2025.    
@@ -48,4 +49,5 @@ Publications
 [3]: https://ieeexplore.ieee.org/abstract/document/10816174?casa_token=ezECEfqcPisAAAAA:H6UEAXuKqGfKadO2xtlb0PTJB3SNjYs6Insbi78jMFyIUgl4wyOMYKNzff608QULLq-GSXPhQw
 [4]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5116823
 [5]: https://ieeexplore.ieee.org/abstract/document/10906909?casa_token=gxMexg3hHhUAAAAA:d0fmTi2c2VKBU2HtDv8JbleHcEeADWIfQZesuZi8wQESm795k1lkDsnVMT9OmstS1bbdCe4E-A
+[6]: https://www.mdpi.com/2073-445X/14/11/2141
 
