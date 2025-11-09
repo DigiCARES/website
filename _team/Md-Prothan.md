@@ -25,7 +25,7 @@ title: PhD Student
 # OSU - 10nn
 # UAH - 15nn
 # NSF - 20nn
-sort_order: 588
+sort_order: 525
 # Be sure to place this image in the /images/profiles/ directory.
 image: Md-Prothan.jpg
 ---
