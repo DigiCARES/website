@@ -9,7 +9,7 @@
 # visible.                                                                     #
 ################################################################################
 # Change this to your name
-name: Md Jakirul Islam Jor Prothan
+name: Md Jakirul Islam Jony Prothan
 # The type field is used to place you under the correct subheading. It may be of
 # the following values: researcher, postdoc, visiting_scholar, graduate,
 # undergraduate, or other.
