@@ -7,6 +7,7 @@ section-id: publications
 <h1 style="font-size:2.5em;font-weight:bold;">
 Publications
 </h1>
+ 1. Y. Zhang, F. Wang, D. Shi, and C. Fan, "A Distance-Based Spatial-Temporal Simulator for Renewable Energy Forecasting Under Extreme Weather," IEEE PES Transmission & Distribution Conference & Expo (T&D), 2026.
  1. C. Fan, M. J. Prothan, Y. Zhu, and D. Shi, "Two Decades of Urban Transformation and Heat Dynamics in a Desert Metropolis: Linking Land Cover, Demographics, and Surface Temperature", *Land*, vol. 14, no. 11, p. 2141, Oct. 2025. [[Link.]][6]
  1. X. Wang, D. Shi, and F. Wang, "Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence," IEEE Open Access Journal of Power and Energy, Sept. 2025.
  1. M. Prothan, C. Fan, F. Wang, and D. Shi, "Segmented Wind Power Curve Calibration Using Sub-Hourly Power Bias Analysis," in *Proc. 2024
