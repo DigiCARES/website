@@ -25,6 +25,6 @@ image: lulin-xue.png
 # Include a link to an external website, or some other internal page if desired.
 # If not including a link, delete both fields or leave them blank.
 more_text: Dr. Xue's Page
-more_url: https://staff.ucar.edu/users/xuel
+more_url: https://staff.ucar.edu/users/xuel](https://www.linkedin.com/in/xuelulin/
 ---
 
