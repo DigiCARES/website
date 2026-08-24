@@ -16,7 +16,7 @@ post-nominal: Ph.D.
 # undergraduate, or other.
 type: previous_researcher
 # Bio-tags: the following describe the person's role in the research.
-institution: University of Alabama in Huntsville
+institution: University of Alabama in Huntsville (2024)
 title: Lecturer
 # Optional tag to change the display order in relation to other professors
 sort_order: 1505
