@@ -16,7 +16,7 @@ post-nominal: Ph.D.
 # undergraduate, or other.
 type: graduate
 # Bio-tags: the following describe the person's role in the research.
-institution: New Mexico State University
+institution: New Mexico State University (2024-2025)
 title: PhD Student
 # Optional tag to change the display order in relation to other professors
 sort_order: 500
