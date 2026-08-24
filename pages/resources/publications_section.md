@@ -106,5 +106,4 @@ Publications
 [18]: https://link.springer.com/article/10.1007/s11869-026-02012-6
 [19]: https://arxiv.org/abs/2605.00681
 [20]: https://arxiv.org/abs/2604.27207
-[21]: 
 
