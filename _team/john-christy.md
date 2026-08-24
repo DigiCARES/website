@@ -16,11 +16,9 @@ post-nominal: Ph.D.
 # undergraduate, or other.
 type: researcher
 # Bio-tags: the following describe the person's role in the research.
-institution: University of Alabama in Huntsville
+institution: University of Alabama in Huntsville (2024-2025)
 title: |
-    Distinguished Professor,
-    Director of ESSC,
-    Atmospheric and Earth Science
+    Distinguished Professor
 # Optional tag to change the display order in relation to other professors
 sort_order: 1502
 # Be sure to place this image in the /images/profiles/ directory.
