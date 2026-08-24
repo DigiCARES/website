@@ -16,7 +16,7 @@ postnominal: Ph.D.
 # undergraduate, or other.
 type: researcher
 # Bio-tags: the following describe the person's role in the research.
-institution: Oklahoma State University
+institution: Oklahoma State University (2024-2025)
 title: Vice President, Access and Community Impact
 # Optional tag to change the display order in relation to other professors
 sort_order: 1003
