@@ -16,7 +16,7 @@ post-nominal: Ph.D.
 # undergraduate, or other.
 type: researcher
 # Bio-tags: the following describe the person's role in the research.
-institution: NSF National Center for Atmospheric Research
+institution: NSF National Center for Atmospheric Research (2024-2025)
 title: Project Scientist
 # Optional tag to change the display order in relation to other professors
 sort_order: 1510
