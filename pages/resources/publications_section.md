@@ -29,7 +29,7 @@ Publications
    
 1. Y. Zhang, Y. Zhang, and L. Wang, “Meteorological-Data-Aided Distribution System Operation With Weather-Dependent Line Parameter Calibration and DER Generation Forecasting,” *IEEE Trans. Ind. Appl.*, 2026. [[Link.]][16]
    
- 1. 7.	S. Chung and Y. Zhang, “Utilizing Adversarial Training for Robust Voltage Control: An Adaptive Deep Reinforcement Learning Method,” in *Proc. 2026 IEEE Texas Power and Energy Conference (TPEC)*, 2026. [[Link.]][9]
+1. S. Chung and Y. Zhang, “Utilizing Adversarial Training for Robust Voltage Control: An Adaptive Deep Reinforcement Learning Method,” in *Proc. 2026 IEEE Texas Power and Energy Conference (TPEC)*, 2026. [[Link.]][9]
        
  1. L. Wang, Y. Zhang, D. Shi, F. Ding, "Physics-Aware LLM-Based Probabilistic Wind Power Scenario Generation under Extreme Icing Conditions," in *Proc. 2026 IEEE PES General Meeting*, Canada, 2026. [[Link.]][8]
     
