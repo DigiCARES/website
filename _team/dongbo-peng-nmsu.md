@@ -21,7 +21,7 @@ title: Postdoctoral Researcher
 # Optional tag to change the display order in relation to other professors
 sort_order: 1505
 # Be sure to place this image in the /images/profiles/ directory.
-image: Dongbo-Peng-nmsu.jpeg
+image: dongbo-peng-nmsu.jpg
 # Include a link to an external website, or some other internal page if desired.
 # If not including a link, delete both fields or leave them blank.
 more_text: Dr. Peng's LinkedIn Profile
