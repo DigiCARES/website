@@ -15,7 +15,7 @@ name: Gina Miller
 # undergraduate, or other.
 type: researcher
 # Bio-tags: the following describe the person's role in the research.
-institution: Oklahoma State University
+institution: Oklahoma State University (2024-2026)
 title: Program Director, OK-LSAMP
 # Optional tag to change the display order in relation to other professors
 sort_order: 1004
